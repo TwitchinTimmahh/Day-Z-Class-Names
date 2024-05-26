@@ -40,6 +40,10 @@ CarnivalMask_NewYears - CarnivalMask_Red - CarnivalMask_Valentines - CarnivalMas
 ::CRAFTED::
 WitchHoodCoif_Black - WitchHoodCoif_Brown - WitchHoodCoif_Red
 
+::CHRISTMAS::
+SantasBeard
+SantasHat
+
 ::HALLOWEEN::
 Animal_CapraHircus_Spooky
 CrookedNose
@@ -65,6 +69,18 @@ Land_Tisy_RadarPlatform_Top
 :Shipping Containers:
 Land_Container_1Aoh = Yellow || Land_Container_1Bo = Red || Land_Container_1Mo = Camo || Land_Container_1Moh = CamoHalfClosed ||
 
+::LIVONIA::
+:Ruins:
+Land_Ruin_HouseSmall1
+Land_Ruin_HouseSmall2
+Land_Ruin_HouseBig1
+Land_Ruin_HouseBig1 Half
+Land_Ruin_HouseBig2
+Land_Ruin_HouseBig2_Half
+Land_Ruin_HouseBig3
+Land_Ruin_HouseBig3_Half
+Land_Ruin_Church2_1a
+Land_Ruin_Mil_ControlTower
 
 [NEW]Ammo_HuntingBolt  Hunting
 [NEW]Ammo_ImprovisedBolt_1  crafted
