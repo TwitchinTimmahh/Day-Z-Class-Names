@@ -5,11 +5,44 @@ So item names could be listed twice or more, depending.
 For example: A BDU Jacket, will be listed under Clothing>BDU section AND under Clothing>Jackets section.
 For example: A Box of, and lose .308 Ammo, will be listed under Ammunition and under all the Weapons that uses this type of ammo.
 Use the Control + F keys to have a searchbar pop up.
-All chapters are listed below to help you search faster.
+All chapters are listed below x-x-x-x-x to help you search faster.
+Equipment LayOut:
+L.Shoulder - R.Shoulder - Vest - Top - Belt - Legs - Back - Hat
+Face - Eyes - Gloves - Feet - Armband
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
 
-- Weapons - Ammunition - Clothing - Halloween -
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+- Weapons - Ammunition - Clothing - Masks - Crafted - Halloween - Medieval - Food & Drinks - Fauna - Flora - 
 
-[b]Halloween:[/b]
+::MASKS::
+CarnivalMask_Black - CarnivalMask_Blue - CarnivalMask_Christmas - CarnivalMask_Dead
+CarnivalMask_NewYears - CarnivalMask_Red - CarnivalMask_Valentines - CarnivalMask_Yellow
+
+::CRAFTED::
+WitchHoodCoif_Black - WitchHoodCoif_Brown - WitchHoodCoif_Red
+
+::HALLOWEEN::
+Animal_CapraHircus_Spooky
+CrookedNose
+PumpkinHelmet
+WitchHat
+WitchHood_Black
+WitchHood_Brown
+WitchHood_Red
+
+::MEDIEVAL::
+
+::FOOD&DRINKS::
+SlicedPumpkin
+
+::FAUNA::
+Animal_CapraHircus_Spooky
+
+::FLORA::
+
+::BUILDINGS/STRUCTURES::
+:Shipping Containers:
+Land_Container_1Aoh = Yellow || Land_Container_1Bo = Red || = || =
 
 
 [NEW]Ammo_HuntingBolt  Hunting
