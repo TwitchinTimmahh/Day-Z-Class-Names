@@ -14,9 +14,28 @@ x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 - Weapons - Ammunition - Clothing - Masks - Crafted - Halloween - Medieval - Food & Drinks - Fauna - Flora - 
 
-::MASKS::
-CarnivalMask_Black - CarnivalMask_Blue - CarnivalMask_Christmas - CarnivalMask_Dead
-CarnivalMask_NewYears - CarnivalMask_Red - CarnivalMask_Valentines - CarnivalMask_Yellow
+::THROWABLE-WEAPONS::
+FlashGrenade
+M18SmokeGrenade_Green
+M18SmokeGrenade_Purple
+M18SmokeGrenade_Red
+M18SmokeGrenade_White
+M18SmokeGrenade_Yellow
+M67Grenade
+PO-X Vial
+RDG2SmokeGrenade_Black
+RDG2SmokeGrenade_White
+RGD5Grenade
+
+
+::RANDOM::
+CigarettePack_Chernamorka
+CigarettePack_Merkur
+CigarettePack_Partyzanka
+
+::MASKS:: ??
+CarnivalMask_Black - CarnivalMask_Blue - CarnivalMask_Christmas - CarnivalMask_Dead ??
+CarnivalMask_NewYears - CarnivalMask_Red - CarnivalMask_Valentines - CarnivalMask_Yellow ??
 
 ::CRAFTED::
 WitchHoodCoif_Black - WitchHoodCoif_Brown - WitchHoodCoif_Red
@@ -41,8 +60,10 @@ Animal_CapraHircus_Spooky
 ::FLORA::
 
 ::BUILDINGS/STRUCTURES::
+:Concrete Structures:
+Land_Tisy_RadarPlatform_Top
 :Shipping Containers:
-Land_Container_1Aoh = Yellow || Land_Container_1Bo = Red || = || =
+Land_Container_1Aoh = Yellow || Land_Container_1Bo = Red || Land_Container_1Mo = Camo || Land_Container_1Moh = CamoHalfClosed ||
 
 
 [NEW]Ammo_HuntingBolt  Hunting
