@@ -101,6 +101,24 @@ Land_Tisy_RadarPlatform_Top
 :Shipping Containers:
 Land_Container_1Aoh = Yellow || Land_Container_1Bo = Red || Land_Container_1Mo = Camo || Land_Container_1Moh = CamoHalfClosed ||
 
+:Bridges
+StaticObj_Bridge_Metal_25_1
+StaticObj_Bridge_Metal_25  ( Concrete Pillars, Steel Bridge )
+StaticObj_Bridge_Stone_25
+StaticObj_Bridge_Wood_25
+StaticObj_Bridge_Wood_50
+StaticObj_Bridge_Wood_50_1
+
+:RailWayBridges:
+StaticObj_Rail_Bridge_15
+StaticObj_Rail_Bridge_15_3tracks ( Brick 3 Tracks )
+StaticObj_Rail_Bridge_15_Curve  ( Brick Arch )
+StaticObj_Rail_Bridge_15_End  ( Brick Foundation )
+StaticObj_Rail_Bridge_40
+StaticObj_Rail_Bridge_40_3tracks  ?
+StaticObj_Rail_Bridge_40_Curve  ?
+StaticObj_Rail_Bridge_40_End  ?
+
 ::LIVONIA::
 :Ruins:
 Land_Ruin_HouseSmall1
