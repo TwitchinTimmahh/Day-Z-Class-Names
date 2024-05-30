@@ -102,9 +102,9 @@ Land_Tisy_RadarPlatform_Top
 Land_Container_1Aoh = Yellow || Land_Container_1Bo = Red || Land_Container_1Mo = Camo || Land_Container_1Moh = CamoHalfClosed ||
 
 :Bridges
-StaticObj_Bridge_Metal_25_1
-StaticObj_Bridge_Metal_25  ( Concrete Pillars, Steel Bridge )
-StaticObj_Bridge_Stone_25
+StaticObj_Bridge_Metal_25_1  ( Concrete Small Round Pillar, Steel Bridge )
+StaticObj_Bridge_Metal_25  ( Concrete Wide Pillar, Steel Bridge )
+StaticObj_Bridge_Stone_25  ( Brick Arch )
 StaticObj_Bridge_Wood_25
 StaticObj_Bridge_Wood_50
 StaticObj_Bridge_Wood_50_1
@@ -119,8 +119,19 @@ StaticObj_Rail_Bridge_40_3tracks  ?
 StaticObj_Rail_Bridge_40_Curve  ?
 StaticObj_Rail_Bridge_40_End  ?
 
-::LIVONIA::
+:Train Stations:
+Land_Rail_Station_Big
+Land_Rail_Station_Small
+Land_Rail_Warehouse_Small
+
+::UNIQUE TO LIVONIA::
+:Military:
+Land_Roadblock_WoodenCrate
+Land_Roadblock_Table
+Land_Mil_Tent_Big2_1_Int
+Land_Mil_ControlTower_1a.
 :Ruins:
+Land_House_1W13_Dam  ( Overgrown House )
 Land_Ruin_HouseSmall1
 Land_Ruin_HouseSmall2
 Land_Ruin_HouseBig1
