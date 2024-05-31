@@ -10,7 +10,7 @@ Equipment LayOut:
 L.Shoulder - R.Shoulder - Vest - Top - Belt - Legs - Back - Hat
 Face - Eyes - Gloves - Feet - Armband
 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
-
+IDEAS:  Bridge made of WoodenLogs ?
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 - Weapons - Ammunition - Clothing - Masks - Crafted - Halloween - Medieval - Food & Drinks - Fauna - Flora - 
 
@@ -90,24 +90,43 @@ WitchHood_Red
 ::FOOD&DRINKS::
 SlicedPumpkin
 
+:WildEdibles:
+AgaricusMushroom
+
 ::FAUNA::
 Animal_CapraHircus_Spooky
 
 ::FLORA::
 
 ::BUILDINGS/STRUCTURES::
+:Castle:
+Land_Castle_Bastion  ( Large U Shaped Wall Ruin )
+Land_Castle_Bastion_nolc  ( Same As Above? )
 :Concrete Structures:
 Land_Tisy_RadarPlatform_Top
 :Shipping Containers:
 Land_Container_1Aoh = Yellow || Land_Container_1Bo = Red || Land_Container_1Mo = Camo || Land_Container_1Moh = CamoHalfClosed ||
-
-:Bridges
+:ConcreteStructures:
+Land_Ruin_Highway_Pillar1  ( Large U Shape )
+:Bridges:
 StaticObj_Bridge_Metal_25_1  ( Concrete Small Round Pillar, Steel Bridge )
 StaticObj_Bridge_Metal_25  ( Concrete Wide Pillar, Steel Bridge )
 StaticObj_Bridge_Stone_25  ( Brick Arch )
 StaticObj_Bridge_Wood_25
 StaticObj_Bridge_Wood_50
 StaticObj_Bridge_Wood_50_1
+
+:Furniture:
+StaticObj_Misc_Table
+Land_Roadblock_Table  ( Folding Table, Not Foldable:) )
+StaticObj_Furniture_foldingbed_open
+
+:Ladders/Staircase/Scaffolding:
+Land_Ladder
+Land_Ladder_Half
+
+:Military:
+Land_Mil_Tent_Big2_4
 
 :RailWayBridges:
 StaticObj_Rail_Bridge_15
@@ -118,6 +137,22 @@ StaticObj_Rail_Bridge_40
 StaticObj_Rail_Bridge_40_3tracks  ?
 StaticObj_Rail_Bridge_40_Curve  ?
 StaticObj_Rail_Bridge_40_End  ?
+
+:Road Block / Barriers:
+StaticObj_Misc_Barbedwire
+StaticObj_Roadblock_CncBlock
+StaticObj_Wall_CncBarrier_4Block
+StaticObj_Roadblock_CncBlocks_Long
+StaticObj_Roadblock_CncBlocks_short
+StaticObj_Roadblock_Bags_Curve
+StaticObj_Roadblock_Bags_Long
+Land_Roadblock_WoodenCrate
+StaticObj_Roadblock_Pillbox ??
+StaticObj_Mil_HBarrier_6m ??
+
+:Piles of:
+StaticObj_Garbage_Pile5
+
 
 :Train Stations:
 Land_Rail_Station_Big
@@ -169,3 +204,163 @@ GreatHelm - 4/2 | Historical (was Hunting)
 [NEW]WoolGloves_Green - 15/8 | Coast, Town, Village, Hunting
 [NEW]WoolGloves_Tan - 15/8 | Coast, Town, Village, Hunting
 [NEW]WoolGloves_White - 15/8 | Coast, Town, Village, Hunting
+
+::ZOMBIES::
+ZmbF_BlueCollarFat_Blue [Infected]
+ZmbF_BlueCollarFat_Green [Infected]
+ZmbF_BlueCollarFat_Red [Infected]
+ZmbF_BlueCollarFat_White [Infected]
+ZmbF_CitizenANormal_Beige [Infected]
+ZmbF_CitizenANormal_Blue [Infected]
+ZmbF_CitizenANormal_Brown [Infected]
+ZmbF_CitizenBSkinny [Infected]
+ZmbF_ClerkFat_Black [Infected]
+ZmbF_ClerkFat_BluePattern [Infected]
+ZmbF_ClerkFat_GreyPattern [Infected]
+ZmbF_ClerkFat_White [Infected]
+ZmbF_Clerk_Normal_Blue [Infected]
+ZmbF_Clerk_Normal_Green [Infected]
+ZmbF_Clerk_Normal_Red [Infected]
+ZmbF_Clerk_Normal_White [Infected]
+ZmbF_DoctorSkinny [Infected]
+ZmbF_HikerSkinny_Blue [Infected]
+ZmbF_HikerSkinny_Green [Infected]
+ZmbF_HikerSkinny_Grey [Infected]
+ZmbF_HikerSkinny_Red [Infected]
+ZmbF_JoggerSkinny_Blue [Infected]
+ZmbF_JoggerSkinny_Brown [Infected]
+ZmbF_JoggerSkinny_Green [Infected]
+ZmbF_JoggerSkinny_Red [Infected]
+ZmbF_JournalistNormal_Blue [Infected]
+ZmbF_JournalistNormal_Green [Infected]
+ZmbF_JournalistNormal_Red [Infected]
+ZmbF_JournalistNormal_White [Infected]
+ZmbF_MechanicNormal_Beige [Infected]
+ZmbF_MechanicNormal_Green [Infected]
+ZmbF_MechanicNormal_Grey [Infected]
+ZmbF_MechanicNormal_Orange [Infected]
+ZmbF_MilkMaidOld_Beige [Infected]
+ZmbF_MilkMaidOld_Black [Infected]
+ZmbF_MilkMaidOld_Green [Infected]
+ZmbF_MilkMaidOld_Grey [Infected]
+ZmbF_NurseFat [Infected]
+ZmbF_ParamedicNormal_Blue [Infected]
+ZmbF_ParamedicNormal_Green [Infected]
+ZmbF_ParamedicNormal_Red [Infected]
+ZmbF_PatientOld [Infected]
+ZmbF_PoliceWomanNormal [Infected]
+ZmbF_ShortSkirt_beige [Infected]
+ZmbF_ShortSkirt_black [Infected]
+ZmbF_ShortSkirt_brown [Infected]
+ZmbF_ShortSkirt_checks [Infected]
+ZmbF_ShortSkirt_green [Infected]
+ZmbF_ShortSkirt_grey [Infected]
+ZmbF_ShortSkirt_red [Infected]
+ZmbF_ShortSkirt_stripes [Infected]
+ZmbF_ShortSkirt_white [Infected]
+ZmbF_ShortSkirt_yellow [Infected]
+ZmbF_SkaterYoung_Brown [Infected]
+ZmbF_SkaterYoung_Striped [Infected]
+ZmbF_SkaterYoung_Violet [Infected]
+ZmbF_SurvivorNormal_Blue [Infected]
+ZmbF_SurvivorNormal_Orange [Infected]
+ZmbF_SurvivorNormal_Red [Infected]
+ZmbF_SurvivorNormal_White [Infected]
+ZmbF_VillagerOld_Blue [Infected]
+ZmbF_VillagerOld_Green [Infected]
+ZmbF_VillagerOld_Red [Infected]
+ZmbF_VillagerOld_White [Infected]
+ZmbM_CitizenASkinny_Blue [Infected]
+ZmbM_CitizenASkinny_Brown [Infected]
+ZmbM_CitizenASkinny_Grey [Infected]
+ZmbM_CitizenASkinny_Red [Infected]
+ZmbM_CitizenBFat_Blue [Infected]
+ZmbM_CitizenBFat_Green [Infected]
+ZmbM_CitizenBFat_Red [Infected]
+ZmbM_ClerkFat_Brown [Infected]
+ZmbM_ClerkFat_Grey [Infected]
+ZmbM_ClerkFat_Khaki [Infected]
+ZmbM_ClerkFat_White [Infected]
+ZmbM_CommercialPilotOld_Blue [Infected]
+ZmbM_CommercialPilotOld_Brown [Infected]
+ZmbM_CommercialPilotOld_Grey [Infected]
+ZmbM_CommercialPilotOld_Olive [Infected]
+ZmbM_ConstrWorkerNormal_Beige [Infected]
+ZmbM_ConstrWorkerNormal_Black [Infected]
+ZmbM_ConstrWorkerNormal_Green [Infected]
+ZmbM_ConstrWorkerNormal_Grey [Infected]
+ZmbM_DoctorFat [Infected]
+ZmbM_FarmerFat_Beige [Infected]
+ZmbM_FarmerFat_Blue [Infected]
+ZmbM_FarmerFat_Brown [Infected]
+ZmbM_FarmerFat_Green [Infected]
+ZmbM_FirefighterNormal [Infected]
+ZmbM_FishermanOld_Blue [Infected]
+ZmbM_FishermanOld_Green [Infected]
+ZmbM_FishermanOld_Grey [Infected]
+ZmbM_FishermanOld_Red [Infected]
+ZmbM_HandymanNormal_Beige [Infected]
+ZmbM_HandymanNormal_Blue [Infected]
+ZmbM_HandymanNormal_Green [Infected]
+ZmbM_HandymanNormal_Grey [Infected]
+ZmbM_HandymanNormal_White [Infected]
+ZmbM_HeavyIndustryWorker [Infected]
+ZmbM_HermitSkinny_Beige [Infected]
+ZmbM_HermitSkinny_Black [Infected]
+ZmbM_HermitSkinny_Green [Infected]
+ZmbM_HermitSkinny_Red [Infected]
+ZmbM_HikerSkinny_Blue [Infected]
+ZmbM_HikerSkinny_Green [Infected]
+ZmbM_HikerSkinny_Yellow [Infected]
+ZmbM_HunterOld_Autumn [Infected]
+ZmbM_HunterOld_Spring [Infected]
+ZmbM_HunterOld_Summer [Infected]
+ZmbM_HunterOld_Winter [Infected]
+ZmbM_Jacket_beige [Infected]
+ZmbM_Jacket_black [Infected]
+ZmbM_Jacket_blue [Infected]
+ZmbM_Jacket_bluechecks [Infected]
+ZmbM_Jacket_brown [Infected]
+ZmbM_Jacket_greenchecks [Infected]
+ZmbM_Jacket_grey [Infected]
+ZmbM_Jacket_khaki [Infected]
+ZmbM_Jacket_magenta [Infected]
+ZmbM_Jacket_stripes [Infected]
+ZmbM_JoggerSkinny_Blue [Infected]
+ZmbM_JoggerSkinny_Green [Infected]
+ZmbM_JoggerSkinny_Red [Infected]
+ZmbM_JournalistSkinny [Infected]
+ZmbM_MechanicSkinny_Blue [Infected]
+ZmbM_MechanicSkinny_Green [Infected]
+ZmbM_MechanicSkinny_Grey [Infected]
+ZmbM_MechanicSkinny_Red [Infected]
+ZmbM_MotobikerFat_Beige [Infected]
+ZmbM_MotobikerFat_Black [Infected]
+ZmbM_MotobikerFat_Blue [Infected]
+ZmbM_OffshoreWorker_Green [Infected]
+ZmbM_OffshoreWorker_Orange [Infected]
+ZmbM_OffshoreWorker_Red [Infected]
+ZmbM_OffshoreWorker_Yellow [Infected]
+ZmbM_ParamedicNormal_Black [Infected]
+ZmbM_ParamedicNormal_Blue [Infected]
+ZmbM_ParamedicNormal_Green [Infected]
+ZmbM_ParamedicNormal_Red [Infected]
+ZmbM_PatientSkinny [Infected]
+ZmbM_PatrolNormal_Autumn [Infected]
+ZmbM_PatrolNormal_Flat [Infected]
+ZmbM_PatrolNormal_PautRev [Infected]
+ZmbM_PatrolNormal_Summer [Infected]
+ZmbM_PolicemanFat [Infected]
+ZmbM_PolicemanSpecForce [Infected]
+ZmbM_PrisonerSkinny [Infected]
+ZmbM_SkaterYoung_Blue [Infected]
+ZmbM_SkaterYoung_Brown [Infected]
+ZmbM_SkaterYoung_Green [Infected]
+ZmbM_SkaterYoung_Grey [Infected]
+ZmbM_SoldierNormal [Infected]
+ZmbM_VillagerOld_Blue [Infected]
+ZmbM_VillagerOld_Green [Infected]
+ZmbM_VillagerOld_White [Infected]
+ZmbM_priestPopSkinny [Infected]
+ZmbM_usSoldier_normal_Desert [Infected]
+ZmbM_usSoldier_normal_Woodland [Infected]
