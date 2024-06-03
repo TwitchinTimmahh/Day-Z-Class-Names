@@ -62,6 +62,31 @@ RDG2SmokeGrenade_Black
 RDG2SmokeGrenade_White
 RGD5Grenade
 
+::MEDICAL::
+BandageDressing
+DisinfectantSpray
+DisinfectantAlcohol
+PurificationTablets
+CharcoalTablets
+PainkillerTablets
+VitaminBottle
+TetracyclineAntibiotics
+Epinephrine
+Morphine
+Syringe
+ClearSyringe
+BloodSyringe
+InjectionVial
+SalineBag
+StartKitIV
+SalineBagIV
+BloodBagEmpty
+BloodBagFull
+BloodBagIV
+BloodTestKit
+Splint
+Thermometer
+Defibrillator
 
 ::RANDOM::
 CigarettePack_Chernamorka
