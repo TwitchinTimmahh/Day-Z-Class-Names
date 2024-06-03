@@ -11,6 +11,9 @@ L.Shoulder - R.Shoulder - Vest - Top - Belt - Legs - Back - Hat
 Face - Eyes - Gloves - Feet - Armband
 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
 IDEAS:  Bridge made of WoodenLogs ?
+        Bridge with roofing
+        Skeleton with Axe Head VV
+        Skeletons Fight, key in stomach handcuffs
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 - Weapons - Ammunition - Clothing - Masks - Crafted - Halloween - Medieval - Food & Drinks - Fauna - Flora - 
 
@@ -121,6 +124,9 @@ StaticObj_Misc_Table
 Land_Roadblock_Table  ( Folding Table, Not Foldable:) )
 StaticObj_Furniture_foldingbed_open
 
+::Hunting::
+Land_Misc_TrailRoof_Small  ( Simple wooden roof, no walls )
+
 :Ladders/Staircase/Scaffolding:
 Land_Ladder
 Land_Ladder_Half
@@ -171,6 +177,37 @@ StaticObj_Garbage_Pile5
 Land_Rail_Station_Big
 Land_Rail_Station_Small
 Land_Rail_Warehouse_Small
+
+::VehicleWrecks::
+Land_Wreck_Uaz
+Land_Boat_Small1
+Land_Boat_Small2
+Land_Boat_Small3
+Land_Ship_Big_FrontA
+Land_Ship_Big_FrontB
+Land_Ship_Big_BackA
+Land_Ship_Big_BackB
+Land_Ship_Big_Castle
+Land_Train_742_Blue
+Land_Train_742_Red
+Land_Train_Wagon_Box
+Land_Train_Wagon_Tanker
+Land_Wreck_Caravan_MGreen
+Land_Wreck_Caravan_MRust
+Land_Wreck_Caravan_WBrown
+Land_Wreck_Caravan_WGreen
+Land_Wreck_Ikarus
+Land_Wreck_Lada_Green
+Land_Wreck_Lada_Red
+Land_Wreck_S1023_Blue
+Land_Wreck_S1023_Beige
+Land_Wreck_V3S
+Land_Wreck_Volha_Blue
+Land_Wreck_Volha_Grey
+Land_Wreck_C130J
+Wreck_UH1Y
+Wreck_Mi8
+Land_Wreck_Volha_Police
 
 ::UNIQUE TO LIVONIA::
 :Military:
