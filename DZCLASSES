@@ -208,6 +208,10 @@ Land_Wreck_C130J
 Wreck_UH1Y
 Wreck_Mi8
 Land_Wreck_Volha_Police
+Land_Wreck_hb01_aban1_police
+Land_Wreck_hb01_aban2_police
+Land_Wreck_sed01_aban1_police
+Land_Wreck_sed01_aban2_police
 
 ::UNIQUE TO LIVONIA::
 :Military:
@@ -227,6 +231,39 @@ Land_Ruin_HouseBig3
 Land_Ruin_HouseBig3_Half
 Land_Ruin_Church2_1a
 Land_Ruin_Mil_ControlTower
+
+::Transportation::
+:VehicleParts:
+TruckBattery
+CarBattery
+AircraftBattery
+TruckExhaust
+EngineBelt
+BrakeFluid
+EngineOil
+CarRadiator
+TruckRadiator
+TireRepairKit
+HeadlightH7
+HeadlightH7_Box
+WindscreenBox
+CanisterGasoline
+GlowPlug
+SparkPlug
+
+:Vehicles:
+OffroadHatchback
+CivilianVan
+CivilianSedan
+TransitBus
+V3S_Chassis
+V3S_Chassis_Blue
+V3S_Chassis_Orange
+V3S_Chassis_Grey
+V3S_Cargo
+V3S_Cargo_Blue
+V3S_Cargo_Orange
+V3S_Cargo_Grey
 
 [NEW]Ammo_HuntingBolt  Hunting
 [NEW]Ammo_ImprovisedBolt_1  crafted
