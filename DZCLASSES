@@ -35,7 +35,7 @@ SharpenedStick                                M4A1_Bayonet
 Spear                                         Mosin_Bayonet
                                               SKS_Bayonet
 
-::THROWABLE-WEAPONS::
+::THROWABLE-WEAPONS:: (Weighs:2, Chem:1)
 M18SmokeGrenade_Green        FlashGrenade
 M18SmokeGrenade_Purple       M67Grenade
 M18SmokeGrenade_Red          RGD5Grenade
@@ -45,9 +45,11 @@ RDG2SmokeGrenade_Black
 RDG2SmokeGrenade_White
 
 ::MEDICAL::
+:FirstAId:
+FirstAidKit (Size/Slot:9)
 BandageDressing
 DisinfectantSpray
-DisinfectantAlcohol
+DisinfectantAlcohol 
 PurificationTablets
 CharcoalTablets
 PainkillerTablets
@@ -220,8 +222,17 @@ Land_Wreck_hb01_aban2_police
 Land_Wreck_sed01_aban1_police
 Land_Wreck_sed01_aban2_police
 
-**Industrial**
+::INDUSTRIAL::
 "Land_Cementworks_Conveyorhall",
+??
+Land_Cementworks_Conveyor_Up1
+Land_Cementworks_Conveyor_Up2
+Land_Cementworks_Conveyor_Up3
+Land_Cementworks_ConveyorFurnace or Land_Cementworks_Conveyor_Furnace Or is the Land__RotFurnace? the same
+Land_Cementworks_ConveyorTowerA or with Conveyor_Tower_A TowerA ??
+Land_Cementworks_ConveyorTowerB
+Land_Cementworks_ConveyorTowerC
+??
 "Land_CementWorks_SiloBig1A",
 "Land_CementWorks_ExpeditionA",
 "Land_CementWorks_Hall1",
@@ -251,6 +262,9 @@ Land_Wreck_sed01_aban2_police
 "Land_Farm_CowshedB",
 "Land_Farm_CowshedC",
 "Land_Farm_Hopper",
+??
+Land_Farm_Strawstack or StrawStack?
+??
 "Land_Farm_Watertower",
 "Land_Farm_WaterTower_Small",
 "Land_Garage_Big",
