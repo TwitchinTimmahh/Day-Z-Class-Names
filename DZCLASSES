@@ -19,52 +19,30 @@ IDEAS:  Bridge made of WoodenLogs ?
 - Weapons - Ammunition - Clothing - Masks - Crafted - Halloween - Medieval - Food & Drinks - Fauna - Flora - 
 
 ::WEAPONS::
-:BLUNT-MELEE-WEAPONS/TOOLS:
-BaseballBat - BarbedBaseballBat - NailedBaseballBat
-BrassKnuckles_Dull - BrassKnuckles_Shiny
-PipeWrench
-TelescopicBaton
-HockeyStick - NewHockeyStick
+:BLUNT-MELEE-WEAPONS/TOOLS:                  :EDGED-MELEE-WEAPONS/TOOLS:
+BaseballBat                                   WoodAxe - Hatchet - FireFighterAxe
+BarbedBaseballBat - NailedBaseballBat         FirefighterAxe_Black - FirefighterAxe_Green
+BrassKnuckles_Dull - BrassKnuckles_Shiny      PickAxe - Shovel - FieldShovel
+PipeWrench                                    Cleaver - CombatKnife - HuntingKnife
+TelescopicBaton                               Machete - OrientalMachete
+HockeyStick - NewHockeyStick                  Sword - StoneKnife
 PoliceBaton
 SledgeHammer
 
-:EDGED-MELEE-WEAPONS/TOOLS:
-WoodAxe - Hatchet
-FirefighterAxe - FirefighterAxe_Black - FirefighterAxe_Green
-Cleaver
-CombatKnife
-HuntingKnife
-Machete
-Pickaxe
-Sword
-OrientalMachete
-StoneKnife
-Shovel
-FieldShovel
-
-:POINTED-MELEE-WEAPONS/TOOLS:
-Pitchfork
-SharpenedStick
-Spear
-
-:BAYONET-MELEE-WEAPONS/Everything is a tool or a weapon, for that matter..:
-KA_Bayonet
-M4A1_Bayonet
-Mosin_Bayonet
-SKS_Bayonet
+:POINTED-MELEE-WEAPONS/TOOLS:                 :BAYONET-MELEE-WEAPONS/Everything is a tool or a weapon, for that matter..:
+Pitchfork                                     KA_Bayonet
+SharpenedStick                                M4A1_Bayonet
+Spear                                         Mosin_Bayonet
+                                              SKS_Bayonet
 
 ::THROWABLE-WEAPONS::
-FlashGrenade
-M18SmokeGrenade_Green
-M18SmokeGrenade_Purple
-M18SmokeGrenade_Red
-M18SmokeGrenade_White
+M18SmokeGrenade_Green        FlashGrenade
+M18SmokeGrenade_Purple       M67Grenade
+M18SmokeGrenade_Red          RGD5Grenade
+M18SmokeGrenade_White        Grenade_ChemGas
 M18SmokeGrenade_Yellow
-M67Grenade
-Grenade_ChemGas
 RDG2SmokeGrenade_Black
 RDG2SmokeGrenade_White
-RGD5Grenade
 
 ::MEDICAL::
 BandageDressing
