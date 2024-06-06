@@ -17,6 +17,7 @@ IDEAS:  Bridge made of WoodenLogs ?
         Skeletons Fight, key in stomach handcuffs
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 - Weapons - Ammunition - Clothing - Masks - Crafted - Halloween - Medieval - Food & Drinks - Fauna - Flora - 
+Uncat: StarlightOptic 
 
 ::WEAPONS::
 :BLUNT-MELEE-WEAPONS/TOOLS:                  :EDGED-MELEE-WEAPONS/TOOLS:
@@ -109,10 +110,12 @@ AgaricusMushroom
 Animal_CapraHircus_Spooky
 
 ::FLORA::
+                                                     
+.     .     .                                        
+ .   . .   . .   .---<BUILDINGS/STRUCTURES>--.    
+  . .   . .   . .                           \ /    
+   .     .     .                             V      
 
-                           ..__.__.__.__.__.__.__..
-                          >::BUILDINGS/STRUCTURES::<
-                           ´´¨¨´¨¨´¨¨´¨¨´¨¨´¨¨´¨¨´´
 :Uncat: 
 StaticObj_Target_Concrete_Ramp
 StaticObj_Hanged_civil  ( Mr. Hangman... Bring me a rope.. )
@@ -121,6 +124,10 @@ StaticObj_Hanged_doctor  ( Guess who lost playing hangman )
 :Aqua:
 StaticObj_water_pond_50x50m ( Adds a water tile )
 Land_Misc_Well_Pump_Yellow
+
+:Barrels:
+BarrelHoles_Red
+BarrelHoles_Blue
 
 :Bridges:
 StaticObj_Bridge_Metal_25_1  ( Concrete Small Round Pillar, Steel Bridge )
@@ -160,6 +167,7 @@ Land_Castle_Bastion_nolc  ( Same As Above? )
 
 :Concrete Structures:
 Land_Tisy_RadarPlatform_Top
+StaticObj_Tisy_RadarPlatform_Mid
 Land_Ruin_Highway_Pillar1  ( Large U Shaped )
 
 :Dam:
@@ -168,6 +176,9 @@ StaticObj_Dam_Concrete_20_Floodgate
 StaticObj_Dam_Concrete_40
 
 :Docks:
+Land_Pier_Crane_A
+Land_Pier_Crane_B
+
 StaticObj_Pier_Concrete1_CornerOut
 StaticObj_Pier_Concrete1
 StaticObj_Pier_Concrete1_End
@@ -177,10 +188,19 @@ StaticObj_Pier_Concrete3_1
 StaticObj_Pier_Concrete1_L10
 StaticObj_Pier_Concrete1_L30
 
+:Flags:
+StaticObj_Furniture_flag_chernarus_pole  ( On a stick )
+StaticObj_Furniture_flag_chernarus_wall  ( On the wall )
+
 :Furniture:
+StaticObj_Garbage_Container
+StaticObj_Garbage_Bin
+StaticObj_Furniture_vending_machine
 StaticObj_Misc_Table
 Land_Roadblock_Table  ( Folding Table, Not Foldable:) )
 StaticObj_Furniture_foldingbed_open
+StaticObj_Misc_WoodTable_Indoor
+StaticObj_Misc_WoodTable_Outdoor
 
 ::Hunting::
 Land_Misc_TrailRoof_Small  ( Simple wooden roof, no walls )
@@ -194,6 +214,7 @@ Land_Lunapark_Bumper_Car
 
 
 :Piles of:
+StaticObj_Garbage_Pile4
 StaticObj_Garbage_Pile5
 
 :Power Station:
@@ -221,6 +242,7 @@ StaticObj_Rail_Bridge_40_Curve  ?
 StaticObj_Rail_Bridge_40_End  ?
 
 :Road Block / Barriers:
+StaticObj_Wall_CncBarrier_Block
 StaticObj_Misc_Barbedwire
 StaticObj_Roadblock_CncBlock
 StaticObj_Wall_CncBarrier_4Block
@@ -234,18 +256,28 @@ StaticObj_Mil_HBarrier_6m ??
 StaticObj_Misc_RoadBarrier
 StaticObj_Misc_RoadBarrier_2
 
+:School:
+StaticObj_Furniture_school_map
+
 :Services:
 StaticObj_BusStop_Village
 
 :Shipping Containers:
 Land_Container_1Aoh = Yellow || Land_Container_1Bo = Red || Land_Container_1Mo = Camo || Land_Container_1Moh = CamoHalfClosed ||
 
+:Shitters:
+Land_Misc_Toilet_Mobile
+
 :Staircases:
+StaticObj_Road_Sidewalk_Stairs
 StaticObj_Platform1_Stairs_30
 StaticObj_Platform1_Stairs_20
 StaticObj_Platform1_Stairs_30_WallL
 StaticObj_Platform1_Stairs_30_WallR
 StaticObj_Platform2_Stairs_20
+StaticObj_Platform2_Stairs_30
+StaticObj_Platform2_Stairs_30_WallR
+StaticObj_Platform2_Stairs_30_WallL
 
 :Train Stations:
 Land_Rail_Station_Big
