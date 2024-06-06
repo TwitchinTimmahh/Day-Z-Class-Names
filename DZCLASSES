@@ -110,7 +110,9 @@ Animal_CapraHircus_Spooky
 
 ::FLORA::
 
-::BUILDINGS/STRUCTURES::
+                           ..__.__.__.__.__.__.__..
+                          >::BUILDINGS/STRUCTURES::<
+                           ´´¨¨´¨¨´¨¨´¨¨´¨¨´¨¨´¨¨´´
 :Uncat: 
 
 :Aqua:
@@ -129,6 +131,10 @@ Land_Underground_Tunnel_Single
 Land_Underground_Tunnel_Single_Left
 Land_Underground_Tunnel_Single_Right
 StaticObj_Mine_Tunnel
+Land_Underground_Stairs_Block_Terminator
+Land_Underground_Stairs_Block
+Land_Underground_Stairs_Block_Corridor
+Land_Underground_Stairs_Start
 
 :Castle:
 Land_Castle_Bastion  ( Large U Shaped Wall Ruin )
@@ -151,6 +157,7 @@ StaticObj_Pier_Concrete1
 StaticObj_Pier_Concrete2
 StaticObj_Pier_Concrete3_2
 StaticObj_Pier_Concrete3_1
+StaticObj_Pier_Concrete1_L10
 
 :Furniture:
 StaticObj_Misc_Table
