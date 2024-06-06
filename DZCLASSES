@@ -114,6 +114,9 @@ Animal_CapraHircus_Spooky
                           >::BUILDINGS/STRUCTURES::<
                            ´´¨¨´¨¨´¨¨´¨¨´¨¨´¨¨´¨¨´´
 :Uncat: 
+StaticObj_Target_Concrete_Ramp
+StaticObj_Hanged_civil  ( Mr. Hangman... Bring me a rope.. )
+StaticObj_Hanged_doctor  ( Guess who lost playing hangman )
 
 :Aqua:
 StaticObj_water_pond_50x50m ( Adds a water tile )
@@ -162,14 +165,17 @@ Land_Ruin_Highway_Pillar1  ( Large U Shaped )
 :Dam:
 StaticObj_Dam_Concrete_20
 StaticObj_Dam_Concrete_20_Floodgate
+StaticObj_Dam_Concrete_40
 
 :Docks:
 StaticObj_Pier_Concrete1_CornerOut
 StaticObj_Pier_Concrete1
+StaticObj_Pier_Concrete1_End
 StaticObj_Pier_Concrete2
 StaticObj_Pier_Concrete3_2
 StaticObj_Pier_Concrete3_1
 StaticObj_Pier_Concrete1_L10
+StaticObj_Pier_Concrete1_L30
 
 :Furniture:
 StaticObj_Misc_Table
@@ -188,6 +194,7 @@ StaticObj_Garbage_Pile5
 
 :Power Station:
 StaticObj_Power_TransformerStation_Big
+Land_WindPowerPlant_Grey
 
 :Comms:
 Land_Tower_TC4_Base
@@ -198,6 +205,7 @@ Land_Tower_TC2_Mid
 Land_Tower_TC2_Top
 
 :RailWay/Bridges:
+StaticObj_Mine_Rail_Tram ?MinecartOrRailway?
 StaticObj_Rail_Crossing_Block_25
 StaticObj_Rail_Bridge_15
 StaticObj_Rail_Bridge_15_3tracks ( Brick 3 Tracks )
@@ -256,9 +264,11 @@ Land_Mil_Tent_Big2_5  ( 2-way )
 Land_Mil_Tent_Big3  ( 3-way on a grassy knoll )
 Land_Mil_Tent_Big4  ( 3-way w Camonet )
 
-::Walls::
+::Walls/Gates::
 :UnCat:
+Land_Wall_Gate_IndCnc4
 StaticObj_Wall_IndCnc4_8
+StaticObj_Wall_Cnc_5
 :Fence:
 StaticObj_Wall_FenStadium ( Chainlink )
 
