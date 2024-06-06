@@ -189,6 +189,10 @@ Land_Misc_TrailRoof_Small  ( Simple wooden roof, no walls )
 Land_Ladder
 Land_Ladder_Half
 
+:LunaPark:
+Land_Lunapark_Bumper_Car
+
+
 :Piles of:
 StaticObj_Garbage_Pile5
 
@@ -275,6 +279,7 @@ StaticObj_Wall_FenStadium ( Chainlink )
 
 
 ::VehicleWrecks::
+Land_Wreck_Tractor
 Land_Wreck_Mining_Excavator
 Land_Wreck_Uaz
 Land_Boat_Small1
@@ -302,9 +307,11 @@ Land_Wreck_V3S
 Land_Wreck_Volha_Blue
 Land_Wreck_Volha_Grey
 Land_Wreck_C130J
+Land_Wreck_Trailer_Closed
 Wreck_UH1Y
 Wreck_Mi8
 Land_Wreck_Volha_Police
+Land_Wreck_hb02_aban1_red
 Land_Wreck_hb01_aban1_police
 Land_Wreck_hb01_aban2_police
 Land_Wreck_sed01_aban1_police
