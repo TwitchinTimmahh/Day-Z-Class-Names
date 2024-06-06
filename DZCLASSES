@@ -117,6 +117,7 @@ Animal_CapraHircus_Spooky
 
 :Aqua:
 StaticObj_water_pond_50x50m ( Adds a water tile )
+Land_Misc_Well_Pump_Yellow
 
 :Bridges:
 StaticObj_Bridge_Metal_25_1  ( Concrete Small Round Pillar, Steel Bridge )
@@ -127,6 +128,13 @@ StaticObj_Bridge_Wood_50
 StaticObj_Bridge_Wood_50_1
 
 :Bunker:
+Land_Underground_Storage_Big
+Land_Underground_Storage_Prison
+Land_Underground_Storage_Laboratory
+Land_Underground_Storage_Workshop
+Land_Underground_Storage_Hospital
+Land_Underground_Corridor_Main_Left
+Land_Underground_Corridor_Main_Right
 Land_Underground_Tunnel_Single
 Land_Underground_Tunnel_Single_Left
 Land_Underground_Tunnel_Single_Right
@@ -134,7 +142,11 @@ StaticObj_Mine_Tunnel
 Land_Underground_Stairs_Block_Terminator
 Land_Underground_Stairs_Block
 Land_Underground_Stairs_Block_Corridor
+Land_Underground_Stairs_Block_Corridor_NoDoor
 Land_Underground_Stairs_Start
+Land_Underground_Entrance
+Land_Underground_Panel_Lever
+Land_Underground_Panel
 
 :Castle:
 Land_Castle_Bastion  ( Large U Shaped Wall Ruin )
@@ -177,8 +189,16 @@ StaticObj_Garbage_Pile5
 :Power Station:
 StaticObj_Power_TransformerStation_Big
 
+:Comms:
+Land_Tower_TC4_Base
+Land_Tower_TC4_Mid
+Land_Tower_TC4_Top
+Land_Tower_TC2_Base
+Land_Tower_TC2_Mid
+Land_Tower_TC2_Top
 
-:RailWayBridges:
+:RailWay/Bridges:
+StaticObj_Rail_Crossing_Block_25
 StaticObj_Rail_Bridge_15
 StaticObj_Rail_Bridge_15_3tracks ( Brick 3 Tracks )
 StaticObj_Rail_Bridge_15_Curve  ( Brick Arch )
@@ -213,6 +233,7 @@ StaticObj_Platform1_Stairs_30
 StaticObj_Platform1_Stairs_20
 StaticObj_Platform1_Stairs_30_WallL
 StaticObj_Platform1_Stairs_30_WallR
+StaticObj_Platform2_Stairs_20
 
 :Train Stations:
 Land_Rail_Station_Big
@@ -235,8 +256,11 @@ Land_Mil_Tent_Big2_5  ( 2-way )
 Land_Mil_Tent_Big3  ( 3-way on a grassy knoll )
 Land_Mil_Tent_Big4  ( 3-way w Camonet )
 
-:Walls:
+::Walls::
+:UnCat:
 StaticObj_Wall_IndCnc4_8
+:Fence:
+StaticObj_Wall_FenStadium ( Chainlink )
 
 
 
