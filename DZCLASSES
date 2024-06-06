@@ -111,15 +111,11 @@ Animal_CapraHircus_Spooky
 ::FLORA::
 
 ::BUILDINGS/STRUCTURES::
-:Castle:
-Land_Castle_Bastion  ( Large U Shaped Wall Ruin )
-Land_Castle_Bastion_nolc  ( Same As Above? )
-:Concrete Structures:
-Land_Tisy_RadarPlatform_Top
-:Shipping Containers:
-Land_Container_1Aoh = Yellow || Land_Container_1Bo = Red || Land_Container_1Mo = Camo || Land_Container_1Moh = CamoHalfClosed ||
-:ConcreteStructures:
-Land_Ruin_Highway_Pillar1  ( Large U Shape )
+:Uncat: 
+
+:Aqua:
+StaticObj_water_pond_50x50m ( Adds a water tile )
+
 :Bridges:
 StaticObj_Bridge_Metal_25_1  ( Concrete Small Round Pillar, Steel Bridge )
 StaticObj_Bridge_Metal_25  ( Concrete Wide Pillar, Steel Bridge )
@@ -127,6 +123,34 @@ StaticObj_Bridge_Stone_25  ( Brick Arch )
 StaticObj_Bridge_Wood_25
 StaticObj_Bridge_Wood_50
 StaticObj_Bridge_Wood_50_1
+
+:Bunker:
+Land_Underground_Tunnel_Single
+Land_Underground_Tunnel_Single_Left
+Land_Underground_Tunnel_Single_Right
+StaticObj_Mine_Tunnel
+
+:Castle:
+Land_Castle_Bastion  ( Large U Shaped Wall Ruin )
+Land_Castle_Bastion_nolc  ( Same As Above? )
+
+:Civilian:
+
+
+:Concrete Structures:
+Land_Tisy_RadarPlatform_Top
+Land_Ruin_Highway_Pillar1  ( Large U Shaped )
+
+:Dam:
+StaticObj_Dam_Concrete_20
+StaticObj_Dam_Concrete_20_Floodgate
+
+:Docks:
+StaticObj_Pier_Concrete1_CornerOut
+StaticObj_Pier_Concrete1
+StaticObj_Pier_Concrete2
+StaticObj_Pier_Concrete3_2
+StaticObj_Pier_Concrete3_1
 
 :Furniture:
 StaticObj_Misc_Table
@@ -140,21 +164,12 @@ Land_Misc_TrailRoof_Small  ( Simple wooden roof, no walls )
 Land_Ladder
 Land_Ladder_Half
 
-:Tents:
-Land_Medical_Tent_Shower
-Land_Medical_Tent_Big
-Land_Mil_Tent_Big1_1
-Land_Mil_Tent_Big1_2
-Land_Mil_Tent_Big1_3
-Land_Mil_Tent_Big1_4
-Land_Mil_Tent_Big1_5
-Land_Mil_Tent_Big2_1
-Land_Mil_Tent_Big2_2
-Land_Mil_Tent_Big2_3
-Land_Mil_Tent_Big2_4  ( 2-way )
-Land_Mil_Tent_Big2_5  ( 2-way )
-Land_Mil_Tent_Big3  ( 3-way on a grassy knoll )
-Land_Mil_Tent_Big4  ( 3-way w Camonet )
+:Piles of:
+StaticObj_Garbage_Pile5
+
+:Power Station:
+StaticObj_Power_TransformerStation_Big
+
 
 :RailWayBridges:
 StaticObj_Rail_Bridge_15
@@ -177,17 +192,49 @@ StaticObj_Roadblock_Bags_Long
 Land_Roadblock_WoodenCrate
 StaticObj_Roadblock_Pillbox ??
 StaticObj_Mil_HBarrier_6m ??
+StaticObj_Misc_RoadBarrier
+StaticObj_Misc_RoadBarrier_2
 
-:Piles of:
-StaticObj_Garbage_Pile5
+:Services:
+StaticObj_BusStop_Village
 
+:Shipping Containers:
+Land_Container_1Aoh = Yellow || Land_Container_1Bo = Red || Land_Container_1Mo = Camo || Land_Container_1Moh = CamoHalfClosed ||
+
+:Staircases:
+StaticObj_Platform1_Stairs_30
+StaticObj_Platform1_Stairs_20
+StaticObj_Platform1_Stairs_30_WallL
+StaticObj_Platform1_Stairs_30_WallR
 
 :Train Stations:
 Land_Rail_Station_Big
 Land_Rail_Station_Small
 Land_Rail_Warehouse_Small
 
+:Tents:
+Land_Medical_Tent_Shower
+Land_Medical_Tent_Big
+Land_Mil_Tent_Big1_1
+Land_Mil_Tent_Big1_2
+Land_Mil_Tent_Big1_3
+Land_Mil_Tent_Big1_4
+Land_Mil_Tent_Big1_5
+Land_Mil_Tent_Big2_1
+Land_Mil_Tent_Big2_2
+Land_Mil_Tent_Big2_3
+Land_Mil_Tent_Big2_4  ( 2-way )
+Land_Mil_Tent_Big2_5  ( 2-way )
+Land_Mil_Tent_Big3  ( 3-way on a grassy knoll )
+Land_Mil_Tent_Big4  ( 3-way w Camonet )
+
+:Walls:
+StaticObj_Wall_IndCnc4_8
+
+
+
 ::VehicleWrecks::
+Land_Wreck_Mining_Excavator
 Land_Wreck_Uaz
 Land_Boat_Small1
 Land_Boat_Small2
@@ -549,7 +596,7 @@ Land_Farm_Strawstack or StrawStack?
 Land_Roadblock_WoodenCrate
 Land_Roadblock_Table
 Land_Mil_Tent_Big2_1_Int
-Land_Mil_ControlTower_1a.
+Land_Mil_ControlTower
 :Ruins:
 Land_House_1W13_Dam  ( Overgrown House )
 Land_Ruin_HouseSmall1
