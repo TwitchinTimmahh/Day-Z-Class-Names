@@ -212,6 +212,16 @@ Land_Ladder_Half
 :LunaPark:
 Land_Lunapark_Bumper_Car
 
+:Military:
+Land_Mil_Guardbox_Smooth  ( Small Grey Concrete )
+Land_Mil_Guardbox_Green  ( Small Green Concrete )
+Land_Mil_Guardbox_Brown  ( Small Brown Concrete )
+Land_Mil_Guardshed  ( Small Wooden )
+Land_Mil_Fortified_Nest_Watchtower  ( CamoDraped MeshBoxed )
+Land_Bunker2_Double  ( Dual Aspect Concrete Pillbox )
+Land_Bunker2_Left  ( Mono Concrete Pillbox )
+Land_Bunker1_Double  ( Dual Aspect Moss Covered Pillbox )
+Land_Bunker1_Right  ( Mono Moss Covered Pillbox )
 
 :Piles of:
 StaticObj_Garbage_Pile4
