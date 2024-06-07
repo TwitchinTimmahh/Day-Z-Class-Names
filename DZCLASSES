@@ -36,7 +36,13 @@ SharpenedStick                                M4A1_Bayonet
 Spear                                         Mosin_Bayonet
                                               SKS_Bayonet
 
-::LAUNCHERS,EXPLOSIVES,THROWABLES:: (Grenades Weighs:2, Chem:1)
+::M79 Grenade Launcher::                           ::FLARE GUN::
+M79                                                Ammo_Flare
+Ammo_40mm_Chemgas        Ammo_40mm_Smoke_Green     Ammo_FlareBlue
+Ammo_40mm_Explosive      Ammo_40mm_Smoke_Red       Ammo_FlareGreen
+Ammo_40mm_Smoke_Black    Ammo_40mm_Smoke_White     Ammo_FlareRed
+
+::THROWABLES:: (Weighs:2, Chem:1)
 M18SmokeGrenade_Green        FlashGrenade
 M18SmokeGrenade_Purple       M67Grenade
 M18SmokeGrenade_Red          RGD5Grenade
