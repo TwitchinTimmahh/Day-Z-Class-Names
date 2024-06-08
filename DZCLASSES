@@ -243,14 +243,14 @@ StaticObj_Dam_Concrete_40
 Land_Pier_Crane_A
 Land_Pier_Crane_B
 
-StaticObj_Pier_Concrete1_CornerOut
-StaticObj_Pier_Concrete1
-StaticObj_Pier_Concrete1_End
-StaticObj_Pier_Concrete2
-StaticObj_Pier_Concrete3_2
-StaticObj_Pier_Concrete3_1
-StaticObj_Pier_Concrete1_L10
-StaticObj_Pier_Concrete1_L30
+StaticObj_Pier_Concrete1_CornerOut  ( SmallConcrete Pier Finishing Corners )
+StaticObj_Pier_Concrete1  ( SmallConcrete Pier of Squar End )
+StaticObj_Pier_Concrete1_End  ( SmallConcrete Square End, Larger than Pier " =[] " )
+StaticObj_Pier_Concrete2  ( LargeConcretePier )
+StaticObj_Pier_Concrete3_2  ( Narrow Pillar 2Sided Rail )
+StaticObj_Pier_Concrete3_1  ( Narrow Pillar 1Sided Rail )
+StaticObj_Pier_Concrete1_L10  ( 10 Degree Bent Narrow Tall Concrete )
+StaticObj_Pier_Concrete1_L30   ( 30 Degree Bent Narrow Tall Concrete )
 
 :Flags:
 StaticObj_Furniture_flag_chernarus_pole  ( On a stick )
@@ -281,7 +281,9 @@ Land_Mil_Guardbox_Smooth  ( Small Grey Concrete )
 Land_Mil_Guardbox_Green  ( Small Green Concrete )
 Land_Mil_Guardbox_Brown  ( Small Brown Concrete )
 Land_Mil_Guardshed  ( Small Wooden )
-Land_Mil_Fortified_Nest_Watchtower  ( CamoDraped SandBagged/MeshBoxed )
+Land_Mil_Fortified_Nest_Small
+Land_Mil_Fortified_Nest_Big  ( Large Sq. Sandbag On GrassyKnoll )
+Land_Mil_Fortified_Nest_Watchtower  ( 2Story CamoDraped SandBagged/MeshBoxed )
 Land_Bunker2_Double  ( LIV Dual Concrete Pillbox )
 Land_Bunker2_Left  ( LIV Mono Concrete Pillbox )
 Land_Bunker1_Double  ( LIV Dual Moss Covered Pillbox )
