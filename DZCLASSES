@@ -21,7 +21,7 @@ Uncat: StarlightOptic
 
 ::WEAPONS::
 :BLUNT-MELEE-WEAPONS/TOOLS::::::::::::::::::::EDGED-MELEE-WEAPONS/TOOLS:
-BaseballBat                              ::    WoodAxe - Hatchet - FireFighterAxe
+BaseballBat                              ::   WoodAxe - Hatchet - FireFighterAxe
 BarbedBaseballBat - NailedBaseballBat    ::   FirefighterAxe_Black - FirefighterAxe_Green
 BrassKnuckles_Dull - BrassKnuckles_Shiny ::   PickAxe - Shovel - FieldShovel
 PipeWrench                               ::   Cleaver - CombatKnife - HuntingKnife
@@ -123,12 +123,12 @@ CigarettePack_Partyzanka
 FireworksLauncher  ( Regular )
 Anniversary_FireworksLauncher  ( 10 Years )
 
-::MASKS:: ??
-CarnivalMask_Black - CarnivalMask_Blue - CarnivalMask_Christmas - CarnivalMask_Dead ??
-CarnivalMask_NewYears - CarnivalMask_Red - CarnivalMask_Valentines - CarnivalMask_Yellow ??
+::MASKS::
+EyeMask_Black - EyeMask_Blue - Eyeask_Christmas - EyeMask_Dead
+EyeMask_NewYears - EyeMask_Red - EyeMask_Valentines - EyeMask_Yellow
 
 ::CRAFTED::
-WitchHoodCoif_Black - WitchHoodCoif_Brown - WitchHoodCoif_Red
+WitchHoodCoif_Black - WitchHoodCoif_Brown - WitchHoodCoif_Red  ( Armored Hood )
 
 ::CHRISTMAS::
 SantasBeard
@@ -281,7 +281,7 @@ Land_Mil_Guardbox_Smooth  ( Small Grey Concrete )
 Land_Mil_Guardbox_Green  ( Small Green Concrete )
 Land_Mil_Guardbox_Brown  ( Small Brown Concrete )
 Land_Mil_Guardshed  ( Small Wooden )
-Land_Mil_Fortified_Nest_Small
+Land_Mil_Fortified_Nest_Small  ( Small Sq. Sandbag on GrassyKnoll )
 Land_Mil_Fortified_Nest_Big  ( Large Sq. Sandbag On GrassyKnoll )
 Land_Mil_Fortified_Nest_Watchtower  ( 2Story CamoDraped SandBagged/MeshBoxed )
 Land_Bunker2_Double  ( LIV Dual Concrete Pillbox )
