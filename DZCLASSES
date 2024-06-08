@@ -79,7 +79,7 @@ Splint
 Thermometer
 Defibrillator
 
-::FLAGS&ARMBANDS::
+::::::::FLAGS&ARMBANDS::::::::::::::::::::::::::::::::::::FLAGLESS::::::::
 Flag_APA             Armband_APA                          Armband_Black
 Flag_Altis           Armband_Altis                        Armband_Blue
 Flag_BabyDeer        Armband_BabyDeer                     Armband_Dyed
@@ -281,7 +281,7 @@ Land_Mil_Guardbox_Smooth  ( Small Grey Concrete )
 Land_Mil_Guardbox_Green  ( Small Green Concrete )
 Land_Mil_Guardbox_Brown  ( Small Brown Concrete )
 Land_Mil_Guardshed  ( Small Wooden )
-Land_Mil_Fortified_Nest_Watchtower  ( CamoDraped MeshBoxed )
+Land_Mil_Fortified_Nest_Watchtower  ( CamoDraped SandBagged/MeshBoxed )
 Land_Bunker2_Double  ( LIV Dual Concrete Pillbox )
 Land_Bunker2_Left  ( LIV Mono Concrete Pillbox )
 Land_Bunker1_Double  ( LIV Dual Moss Covered Pillbox )
@@ -358,8 +358,8 @@ Land_Rail_Station_Small
 Land_Rail_Warehouse_Small
 
 :Tents:
-Land_Medical_Tent_Shower
-Land_Medical_Tent_Big
+Land_Medical_Tent_Shower  ( Yellow Shower :)
+Land_Medical_Tent_Big  ( Large Yellow )
 Land_Mil_Tent_Big1_1
 Land_Mil_Tent_Big1_2
 Land_Mil_Tent_Big1_3
@@ -371,7 +371,7 @@ Land_Mil_Tent_Big2_3
 Land_Mil_Tent_Big2_4  ( 2-way )
 Land_Mil_Tent_Big2_5  ( 2-way )
 Land_Mil_Tent_Big3  ( 3-way on a grassy knoll )
-Land_Mil_Tent_Big4  ( 3-way w Camonet )
+Land_Mil_Tent_Big4  ( 3-way w Camonet NoFloor )
 
 ::Walls/Gates::
 :UnCat:
