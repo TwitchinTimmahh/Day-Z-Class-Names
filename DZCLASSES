@@ -177,7 +177,6 @@ MoneyRuble50    MoneyRuble100
    .     .     .                             V      
 
 :Uncat: 
-StaticObj_Target_Concrete_Ramp
 StaticObj_Hanged_civil  ( Mr. Hangman... Bring me a rope.. )
 StaticObj_Hanged_doctor  ( Guess who lost playing hangman )
 
@@ -224,15 +223,17 @@ Land_Castle_Bastion_nolc  ( Same As Above? )
 
 :Civilian:
 
-:"Coast":  <Tier1:Territory>
+:Coast:
 Land_Boathouse
 Land_Boat_Small1
 Land_Boat_Small2
 Land_Boat_Small3
 
 :Concrete Structures:
+StaticObj_Target_Concrete_Ramp  ( Small Concrete Ramp )
 Land_Tisy_RadarPlatform_Top
 StaticObj_Tisy_RadarPlatform_Mid
+StaticObj_Tisy_RadarPlatform_Base
 Land_Ruin_Highway_Pillar1  ( Large U Shaped )
 
 :Dam:
@@ -316,6 +317,17 @@ StaticObj_Rail_Bridge_40
 StaticObj_Rail_Bridge_40_3tracks  ?
 StaticObj_Rail_Bridge_40_Curve  ?
 StaticObj_Rail_Bridge_40_End  ?
+
+::RESIDENTIAL::
+:TOWN:
+
+:CITY: ( Number behind Story.. represents accessible floors )
+Land_HouseBlock_1F_Corner  ( 2Story2 GREY Corner )
+Land_HouseBlock_1F1  ( 2Story2 GREY w Small Garage "bAWMAYHNK" Tunnel on Side)
+Land_HouseBlock_1F2  ( 2Story1 GREY w Tunnel Middle )
+Land_HouseBlock_1F3  ( 2Story1 GREY w White/Orange Front )
+Land_HouseBlock_1F4
+Land_HouseBlock_2F_Corner
 
 :Road Block / Barriers:
 StaticObj_Wall_CncBarrier_Block
@@ -575,12 +587,13 @@ Land_Farm_Strawstack or StrawStack?
 "Land_BusStation_wall_bench",
 "Land_BusStop_City",
 "Land_City_FireStation",
-"Land_HouseBlock_1F_Corner",
-"Land_HouseBlock_1F1",
-"Land_HouseBlock_1F2",
-"Land_HouseBlock_1F3",
-"Land_HouseBlock_1F4",
-"Land_HouseBlock_2F_Corner",
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
 "Land_HouseBlock_2F1",
 "Land_HouseBlock_2F2",
 "Land_HouseBlock_2F3",
