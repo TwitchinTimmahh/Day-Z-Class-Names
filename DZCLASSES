@@ -20,22 +20,22 @@ IDEAS:  Bridge made of WoodenLogs ?
 Uncat: StarlightOptic 
 
 ::WEAPONS::
-:BLUNT-MELEE-WEAPONS/TOOLS::::::::::::::::::::EDGED-MELEE-WEAPONS/TOOLS:
-BaseballBat                              ::   WoodAxe - Hatchet - FireFighterAxe
-BarbedBaseballBat - NailedBaseballBat    ::   FirefighterAxe_Black - FirefighterAxe_Green
-BrassKnuckles_Dull - BrassKnuckles_Shiny ::   PickAxe - Shovel - FieldShovel
-PipeWrench                               ::   Cleaver - CombatKnife - HuntingKnife
-TelescopicBaton                          ::   Machete - OrientalMachete
-HockeyStick - NewHockeyStick             ::   Sword - StoneKnife
-PoliceBaton                              ::
-SledgeHammer                             ::
-                                         ::
-:POINTED-MELEE-WEAPONS/TOOLS::::::::::::::::::BAYONET-MELEE-WEAPONS/TOOLS:
-Pitchfork                                ::   KA_Bayonet
-SharpenedStick                           ::   M4A1_Bayonet
-Spear                                    ::   Mosin_Bayonet
-                                         ::   SKS_Bayonet
-
+:BLUNT-MELEE-WEAPONS/TOOLS::::::::::::::::::::EDGED-MELEE-WEAPONS/TOOLS:::::::::::::::::::::::
+BaseballBat                              ::   WoodAxe - Hatchet - FireFighterAxe            ::
+BarbedBaseballBat - NailedBaseballBat    ::   FirefighterAxe_Black - FirefighterAxe_Green   ::
+BrassKnuckles_Dull - BrassKnuckles_Shiny ::   PickAxe - Shovel - FieldShovel                ::
+PipeWrench                               ::   Cleaver - CombatKnife - HuntingKnife          ::
+TelescopicBaton                          ::   Machete - OrientalMachete                     ::
+HockeyStick - NewHockeyStick             ::   Sword - StoneKnife                            ::
+PoliceBaton                              ::                                                 ::
+SledgeHammer                             ::                                                 ::
+                                         ::                                                 ::
+:POINTED-MELEE-WEAPONS/TOOLS::::::::::::::::::BAYONET-MELEE-WEAPONS/TOOLS:::::::::::::::::::::
+Pitchfork                                ::   KA_Bayonet                                    ::
+SharpenedStick                           ::   M4A1_Bayonet                                  ::
+Spear                                    ::   Mosin_Bayonet                                 ::
+                                         ::   SKS_Bayonet                                   ::
+==============================================================================================
 ::M79 Grenade Launcher::                           ::FLARE GUN::
 M79                                                Ammo_Flare
 Ammo_40mm_Chemgas        Ammo_40mm_Smoke_Green     Ammo_FlareBlue
