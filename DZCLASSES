@@ -322,12 +322,12 @@ StaticObj_Rail_Bridge_40_End  ?
 :TOWN:
 
 :CITY: ( Number behind Story.. represents accessible floors )
-Land_HouseBlock_1F_Corner  ( 2Story2 GREY Corner )
-Land_HouseBlock_1F1  ( 2Story2 GREY w Small Garage "bAWMAYHNK" Tunnel on Side)
-Land_HouseBlock_1F2  ( 2Story1 GREY w Tunnel Middle )
+:2 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::::3 Story Buildings:::::::
+Land_HouseBlock_1F_Corner  ( 2Story2 GREY Corner )                    ::  Land_HouseBlock_2F_Corner  ( 3Story1 ARCHWindow w Cell )
+Land_HouseBlock_1F1  ( 2Story2 GREY w Small Tunnel Side "bAWMAYHNK" ) ::  Land_HouseBlock_2F1
+Land_HouseBlock_1F2  ( 2Story1 GREY w Tunnel Middle )                 ::  Land_HouseBlock_2F2
 Land_HouseBlock_1F3  ( 2Story1 GREY w White/Orange Front )
-Land_HouseBlock_1F4
-Land_HouseBlock_2F_Corner
+Land_HouseBlock_1F4  ( 2Story1 GREY w Grey/Orange Front )
 
 :Road Block / Barriers:
 StaticObj_Wall_CncBarrier_Block
@@ -591,11 +591,6 @@ Land_Farm_Strawstack or StrawStack?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-
-
-
-"Land_HouseBlock_2F1",
-"Land_HouseBlock_2F2",
 "Land_HouseBlock_2F3",
 "Land_HouseBlock_2F4",
 "Land_HouseBlock_2F5",
