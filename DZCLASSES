@@ -319,31 +319,86 @@ StaticObj_Rail_Bridge_40_Curve  ?
 StaticObj_Rail_Bridge_40_End  ?
 
 ::RESIDENTIAL/COMMERCIAL::
-:TOWN: ( Number behind Story.. represents accessible floors, not counting attic)
-:Small Houses:::::::::::::::::::::::::::::::::::::Town Commercial:::::::
+:TOWN: ( Number behind Story.. represents accessible floors, not counting attic )
+:Wooden Houses::::::::::::::::::::::::::::::::::Town Commercial:::::::
 Land_House_1W01  ( 1Story1 Green House )    ::  Land_House_1B01_Pub  ( 1Story1 PUB w Backrooms )
+Land_House_1W02  ( 1Story1 YellowGreen House )
+Land_House_1W03  ( 1Story1 LOG w Fireplace )
+Land_House_1W04  ( 1Story1 LOG w Stove )
+Land_House_1W05  ( 2Story1 ConcrStairs Green )
+Land_House_1W06  ( 2Story1 ConcrStairs Red )
+Land_House_1W07  ( 1Story1 Orange L Shape )
 :::::::::::
 :CITY: ( Number behind Story.. represents accessible floors, not counting attic)
 :2 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::::3 Story Buildings w Arched Windows:::::::
 Land_HouseBlock_1F_Corner  ( 2Story2 GREY Corner )                    ::  Land_HouseBlock_2F_Corner  ( 3Story1 ARCHWindow w Cell )
 Land_HouseBlock_1F1  ( 2Story2 GREY w Small Tunnel Side "bAWMAYHNK" ) ::  Land_HouseBlock_2F1  ( 3Story3 w PUB "Mor Ctonobar" )
 Land_HouseBlock_1F2  ( 2Story1 GREY w Tunnel Middle )                 ::  Land_HouseBlock_2F2  ( 3Story3 w Beige/White/Orange Front )
-Land_HouseBlock_1F3  ( 2Story1 GREY w White/Orange Front )            ::  Land_HouseBlock_2F3  ( 3Story3 w Small Shop )
-Land_HouseBlock_1F4  ( 2Story1 GREY w Grey/Orange Front )             ::  Land_HouseBlock_2F4  ( 3Story3 GREY )
+Land_HouseBlock_1F3  ( 2Story1 GREY w WhiteOrange Front )             ::  Land_HouseBlock_2F3  ( 3Story3 w Small Shop )
+Land_HouseBlock_1F4  ( 2Story1 GREY w GreyOrange Front )              ::  Land_HouseBlock_2F4  ( 3Story3 GREY )
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  Land_HouseBlock_2F6  ( 3Story3 GREY GREEN )
 :4 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::  Land_HouseBlock_2F7  ( 3Story1 w Tunnel & Shop )
 Land_HouseBlock_3F_Corner1  ( 4Story ? Corner )                       :::::::::::::::::::::::::::::::::::::
-Land_HouseBlock_3F_Corner2  ( 4Story ? Corner                         ::::3 Story Buildings::::::::::::::::
-Land_HouseBlock_3F1  ( 4Story4 GARAGE "CEPBNC MAWNH"                  ::  Land_HouseBlock_2F5  ( 3Story1 GREY OneSideShop )
+Land_HouseBlock_3F_Corner2  ( 4Story ? Corner )                       ::::3 Story Buildings::::::::::::::::
+Land_HouseBlock_3F1  ( 4Story4 GARAGE "CEPBNC MAWNH" )                ::  Land_HouseBlock_2F5  ( 3Story1 GREY OneSideShop )
 Land_HouseBlock_3F2  ( 4Story1 PUB "Pectabpauhr" )                    ::  Land_HouseBlock_2F8  ( 3Story3 WhiteBrickOrangeRim )
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  Land_HouseBlock_2F9  ( 3Story1 GREY WhiteBrickOrangeRim )
 :6 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Land_HouseBlock_5F  ( 6Story1 w Nameless PUB )
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:Utility
 
 
-Land_House_1W02
-Land_House_1W03
-Land_House_1W04
+
+"Land_House_1W08",
+"Land_House_1W09",
+"Land_House_1W10",
+"Land_House_1W11",
+"Land_House_1W12",
+"Land_House_2B01",
+"Land_House_2B02",
+"Land_House_2B03",
+"Land_House_2B04",
+"Land_House_2W01",
+"Land_House_2W02",
+"Land_House_2W03",
+"Land_House_2W04",
+"Land_Village_Pub",
+"Land_City_Hospital",
+"Land_Village_HealthCare",
+"Land_Ladder",
+"Land_Ladder_Half",
+"Land_Misc_FeedShack",
+"Land_Misc_DogHouse",
+"Land_Misc_DeerStand2",
+"Land_Misc_DeerStand1",
+"Land_Misc_Greenhouse",
+"Land_Misc_Toilet_Mobile",
+"Land_Misc_Toilet_Dry",
+"Land_Misc_Well_Pump_Yellow",
+"Land_Misc_Well_Pump_Blue",
+"Land_Lamp_City1_amp",
+"Land_Office_Municipal1",
+"Land_Office_Municipal2",
+"Land_Office1",
+"Land_Office2",
+"Land_Village_PoliceStation",
+"Land_City_PoliceStation",
+"Land_City_School",
+"Land_Shed_M1",
+"Land_Shed_M3",
+"Land_Shed_M4",
+"Land_Shed_W1",
+"Land_Shed_W2",
+"Land_Shed_W3",
+"Land_Shed_W4",
+"Land_Shed_W5",
+"Land_Shed_W6",
+"Land_City_Store",
+"Land_City_Store_WithStairs",
+"Land_Village_store",
+"Land_Tenement_Big",
+"Land_Tenement_Small"
 
 
 
@@ -620,62 +675,8 @@ Land_Farm_Strawstack or StrawStack?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-"Land_House_1W01",
-"Land_House_1W02",
-"Land_House_1W03",
-"Land_House_1W04",
-"Land_House_1W05",
-"Land_House_1W06",
-"Land_House_1W07",
-"Land_House_1W08",
-"Land_House_1W09",
-"Land_House_1W10",
-"Land_House_1W11",
-"Land_House_1W12",
-"Land_House_2B01",
-"Land_House_2B02",
-"Land_House_2B03",
-"Land_House_2B04",
-"Land_House_2W01",
-"Land_House_2W02",
-"Land_House_2W03",
-"Land_House_2W04",
-"Land_Village_Pub",
-"Land_City_Hospital",
-"Land_Village_HealthCare",
-"Land_Ladder",
-"Land_Ladder_Half",
-"Land_Misc_FeedShack",
-"Land_Misc_DogHouse",
-"Land_Misc_DeerStand2",
-"Land_Misc_DeerStand1",
-"Land_Misc_Greenhouse",
-"Land_Misc_Toilet_Mobile",
-"Land_Misc_Toilet_Dry",
-"Land_Misc_Well_Pump_Yellow",
-"Land_Misc_Well_Pump_Blue",
-"Land_Lamp_City1_amp",
-"Land_Office_Municipal1",
-"Land_Office_Municipal2",
-"Land_Office1",
-"Land_Office2",
-"Land_Village_PoliceStation",
-"Land_City_PoliceStation",
-"Land_City_School",
-"Land_Shed_M1",
-"Land_Shed_M3",
-"Land_Shed_M4",
-"Land_Shed_W1",
-"Land_Shed_W2",
-"Land_Shed_W3",
-"Land_Shed_W4",
-"Land_Shed_W5",
-"Land_Shed_W6",
-"Land_City_Store",
-"Land_City_Store_WithStairs",
-"Land_Village_store",
-"Land_Tenement_Big",
-"Land_Tenement_Small"
+
+
 
 **Specific**
 "Land_Radio_PanelBig",
