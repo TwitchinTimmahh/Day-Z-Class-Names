@@ -329,13 +329,16 @@ Land_HouseBlock_1F2  ( 2Story1 GREY w Tunnel Middle )                 ::  Land_H
 Land_HouseBlock_1F3  ( 2Story1 GREY w White/Orange Front )            ::  Land_HouseBlock_2F3  ( 3Story3 w Small Shop )
 Land_HouseBlock_1F4  ( 2Story1 GREY w Grey/Orange Front )             ::  Land_HouseBlock_2F4  ( 3Story3 GREY )
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  Land_HouseBlock_2F6  ( 3Story3 GREY GREEN )
-                                                                      ::::3 Story Buildings::::::::::::::::
+:4 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::  Land_HouseBlock_2F7  ( 3Story1 w Tunnel & Shop )
+Land_HouseBlock_3F_Corner1  ( 4Story ? Corner )                       :::::::::::::::::::::::::::::::::::::
+Land_HouseBlock_3F_Corner2  ( 4Story ? Corner                         ::::3 Story Buildings::::::::::::::::
                                                                       ::  Land_HouseBlock_2F5  ( 3Story1 GREY OneSideShop )
+                                                                      ::  Land_HouseBlock_2F8  ( 3Story3 WhiteBrickOrangeRim )
+                                                                      ::  Land_HouseBlock_2F9  ( 3Story1 GREY WhiteBrickOrangeRim )
 
-Land_HouseBlock_2F7
-Land_HouseBlock_2F8
-
-
+Land_HouseBlock_3F1  (
+Land_HouseBlock_3F2  (
+Land_HouseBlock_5F  (
 
 :Road Block / Barriers:
 StaticObj_Wall_CncBarrier_Block
