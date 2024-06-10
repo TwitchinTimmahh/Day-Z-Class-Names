@@ -170,6 +170,9 @@ Animal_CapraHircus_Spooky  ( HALLOWEEN )
 MoneyRuble1     MoneyRuble5
 MoneyRuble10    MoneyRuble25
 MoneyRuble50    MoneyRuble100
+
+::STORAGE CONTAINERS::
+MinskRefrigerator
                                                      
 .     .     .                                        
  .   . .   . .   .---<BUILDINGS/STRUCTURES>--.    
@@ -320,14 +323,22 @@ StaticObj_Rail_Bridge_40_End  ?
 
 ::RESIDENTIAL/COMMERCIAL::
 :TOWN: ( Number behind Story.. represents accessible floors, not counting attic )
-:Wooden Houses::::::::::::::::::::::::::::::::::Town Commercial:::::::
-Land_House_1W01  ( 1Story1 Green House )    ::  Land_House_1B01_Pub  ( 1Story1 PUB w Backrooms )
-Land_House_1W02  ( 1Story1 YellowGreen House )
-Land_House_1W03  ( 1Story1 LOG w Fireplace )
-Land_House_1W04  ( 1Story1 LOG w Stove )
-Land_House_1W05  ( 2Story1 ConcrStairs Green )
-Land_House_1W06  ( 2Story1 ConcrStairs Red )
-Land_House_1W07  ( 1Story1 Orange L Shape )
+:Wooden Houses:::::::::::::::::::::::::::::::::::::::::Town Commercial:::::::
+Land_House_1W01  ( 1Story1 Green House )           ::  Land_House_1B01_Pub  ( 1Story1 PUB w Backrooms )
+Land_House_1W02  ( 1Story1 YellowGreen House )     ::  
+Land_House_1W03  ( 1Story1 LOG w Fireplace )       ::  
+Land_House_1W04  ( 1Story1 LOG w Stove )           ::  
+Land_House_1W05  ( 2Story1 ConcrStairs Green )     ::  
+Land_House_1W06  ( 2Story1 ConcrStairs Red )       ::  
+Land_House_1W07  ( 1Story1 Orange L Shape )        ::  
+Land_House_1W11  ( 1Story1 YellowBrown Farmhouse ) ::  
+Land_House_1W12  ( 1Story1 YellowBlue Farmhouse )  ::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::
+:Brick/Plaster Houses::::::::::::::::::::::::::::::::
+Land_House_2B01  ( 2Story2 Beige )
+Land_House_2B02  ( 2Story1 Red Brick )
+Land_House_2B03  ( 2Story2 Beige Plaster/Brick "PianoHouse" )
+Land_House_2B04  ( 2Story1 Red Brick )
 :::::::::::
 :CITY: ( Number behind Story.. represents accessible floors, not counting attic)
 :2 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::::3 Story Buildings w Arched Windows:::::::
@@ -336,6 +347,10 @@ Land_HouseBlock_1F1  ( 2Story2 GREY w Small Tunnel Side "bAWMAYHNK" ) ::  Land_H
 Land_HouseBlock_1F2  ( 2Story1 GREY w Tunnel Middle )                 ::  Land_HouseBlock_2F2  ( 3Story3 w Beige/White/Orange Front )
 Land_HouseBlock_1F3  ( 2Story1 GREY w WhiteOrange Front )             ::  Land_HouseBlock_2F3  ( 3Story3 w Small Shop )
 Land_HouseBlock_1F4  ( 2Story1 GREY w GreyOrange Front )              ::  Land_HouseBlock_2F4  ( 3Story3 GREY )
+Land_House_1W08  ( 1Story1 OrangeGreen )
+Land_House_1W09  ( 1Story1 GreenRed )
+Land_House_1W10  ( 1Story1 Yellowish )
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  Land_HouseBlock_2F6  ( 3Story3 GREY GREEN )
 :4 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::  Land_HouseBlock_2F7  ( 3Story1 w Tunnel & Shop )
 Land_HouseBlock_3F_Corner1  ( 4Story ? Corner )                       :::::::::::::::::::::::::::::::::::::
@@ -350,15 +365,9 @@ Land_HouseBlock_5F  ( 6Story1 w Nameless PUB )
 
 
 
-"Land_House_1W08",
-"Land_House_1W09",
-"Land_House_1W10",
-"Land_House_1W11",
-"Land_House_1W12",
-"Land_House_2B01",
-"Land_House_2B02",
-"Land_House_2B03",
-"Land_House_2B04",
+
+
+
 "Land_House_2W01",
 "Land_House_2W02",
 "Land_House_2W03",
