@@ -322,24 +322,30 @@ StaticObj_Rail_Bridge_40_Curve  ?
 StaticObj_Rail_Bridge_40_End  ?
 
 ::RESIDENTIAL/COMMERCIAL::
+:MISC:
+Land_Misc_DogHouse
 :TOWN: ( Number behind Story.. represents accessible floors, not counting attic )
 :Wooden Houses:::::::::::::::::::::::::::::::::::::::::Town Commercial:::::::
 Land_House_1W01  ( 1Story1 Green House )           ::  Land_House_1B01_Pub  ( 1Story1 PUB w Backrooms )
-Land_House_1W02  ( 1Story1 YellowGreen House )     ::  
-Land_House_1W03  ( 1Story1 LOG w Fireplace )       ::  
-Land_House_1W04  ( 1Story1 LOG w Stove )           ::  
-Land_House_1W05  ( 2Story1 ConcrStairs Green )     ::  
-Land_House_1W06  ( 2Story1 ConcrStairs Red )       ::  
+Land_House_1W02  ( 1Story1 YellowGreen House )     ::  Land_Village_Pub
+Land_House_1W03  ( 1Story1 LOG w Fireplace )       ::  Land_City_Stand_FastFood
+Land_House_1W04  ( 1Story1 LOG w Stove )           ::  Land_City_Stand_Grocery
+Land_House_1W05  ( 2Story1 ConcrStairs Green )     ::  Land_City_Stand_News1
+Land_House_1W06  ( 2Story1 ConcrStairs Red )       ::  Land_City_Stand_News2
 Land_House_1W07  ( 1Story1 Orange L Shape )        ::  
 Land_House_1W11  ( 1Story1 YellowBrown Farmhouse ) ::  
 Land_House_1W12  ( 1Story1 YellowBlue Farmhouse )  ::
+Land_House_2W01  ( 1Story2 Beige w AtticFloor )    ::
+Land_House_2W02  ( 2Story2 Green )                 ::
+Land_House_2W03  ( 2Story2 Green UpstairsRooms )   ::
+Land_House_2W04  ( 2Story2 Red UpstairsRooms )     ::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::
 :Brick/Plaster Houses::::::::::::::::::::::::::::::::
 Land_House_2B01  ( 2Story2 Beige )
 Land_House_2B02  ( 2Story1 Red Brick )
 Land_House_2B03  ( 2Story2 Beige Plaster/Brick "PianoHouse" )
 Land_House_2B04  ( 2Story1 Red Brick )
-:::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::
 :CITY: ( Number behind Story.. represents accessible floors, not counting attic)
 :2 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::::3 Story Buildings w Arched Windows:::::::
 Land_HouseBlock_1F_Corner  ( 2Story2 GREY Corner )                    ::  Land_HouseBlock_2F_Corner  ( 3Story1 ARCHWindow w Cell )
@@ -361,26 +367,23 @@ Land_HouseBlock_3F2  ( 4Story1 PUB "Pectabpauhr" )                    ::  Land_H
 :6 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Land_HouseBlock_5F  ( 6Story1 w Nameless PUB )
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:Utility
+:GARDEN/UTILITY:
+Land_Misc_Greenhouse
+Land_Misc_Toilet_Dry
+:SERVICES:
+StaticObj_BusStop_Village
+Land_City_Hospital
+Land_Village_HealthCare
+
+:MISC WILDERNESS:
+Land_Misc_FeedShack
+Land_Misc_DeerStand1
+Land_Misc_DeerStand2
 
 
-
-
-
-
-"Land_House_2W01",
-"Land_House_2W02",
-"Land_House_2W03",
-"Land_House_2W04",
-"Land_Village_Pub",
-"Land_City_Hospital",
-"Land_Village_HealthCare",
 "Land_Ladder",
 "Land_Ladder_Half",
-"Land_Misc_FeedShack",
-"Land_Misc_DogHouse",
-"Land_Misc_DeerStand2",
-"Land_Misc_DeerStand1",
+
 "Land_Misc_Greenhouse",
 "Land_Misc_Toilet_Mobile",
 "Land_Misc_Toilet_Dry",
@@ -409,13 +412,6 @@ Land_HouseBlock_5F  ( 6Story1 w Nameless PUB )
 "Land_Tenement_Big",
 "Land_Tenement_Small"
 
-
-
-:SHOPSTANDS:::
-Land_City_Stand_FastFood
-Land_City_Stand_Grocery
-Land_City_Stand_News1
-Land_City_Stand_News2
 
 :Road Block / Barriers:
 StaticObj_Wall_CncBarrier_Block
