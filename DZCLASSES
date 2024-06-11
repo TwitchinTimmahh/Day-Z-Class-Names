@@ -13,7 +13,7 @@
 ░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓████████▓▒░░▒▓██████▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓██████▓▒░  ░▒▓██████▓▒░  
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░     ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░             ░▒▓█▓▒░ 
  ░▒▓██████▓▒░░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░  
-EXAMPLE OF WHAT YOUR .json NEEDS TO LOOK LIKE IN THE README!!
+EXAMPLE OF WHAT YOUR .json NEEDS TO LOOK LIKE IS ON THE VERY BOTTOM OF THIS PAGE.
 IF YOU WANT TO ADD LINES, COPY & PASTE the MIDDLE section from after the comma and over the comma.
 The list is incomplete and names will be added and sorted.
 All item names are categorized respectively AND categorized upon their usage, camo pattern and/or attachments and such.
@@ -1278,15 +1278,72 @@ ZmbM_VillagerOld_White [Infected]
 ZmbM_priestPopSkinny [Infected]
 ZmbM_usSoldier_normal_Desert [Infected]
 ZmbM_usSoldier_normal_Woodland [Infected]
-
-
-
-
-
 ░▒▓████████▓▒░▒▓████████▓▒░ 
    ░▒▓█▓▒░      ░▒▓█▓▒░     
    ░▒▓█▓▒░      ░▒▓█▓▒░     
    ░▒▓█▓▒░      ░▒▓█▓▒░     
    ░▒▓█▓▒░      ░▒▓█▓▒░     
    ░▒▓█▓▒░      ░▒▓█▓▒░     
-   ░▒▓█▓▒░      ░▒▓█▓▒░     
+   ░▒▓█▓▒░      ░▒▓█▓▒░    
+::::::::::::::EXPLAINED:::::::::::::::::::
+              "pos": [
+              1111.123,  < X-axis - West to East, 0 to +0  ( 0 is absolute West of actual map, may go negative to place further west? )
+              10.0,      < Y-axis - Ground Height -0 to +0 ( May contain negative values. 0 is SEA LEVEL
+              1111.123   < Z-axis - South to North 0 to +0 ( 0 is absolute South of actual map, may go negative to place further south? )
+1111 = 1111meters. 123 = 1 Decimal, 2 Centimeters & 3 Millimeters. ? away from 0 west or 0 south. Easy.
+            ],
+              "ypr": [     MAX VALUES -180 to 180 ( 0 is Facing North, -90 West, 90 East, -180 and 180 are the same, facing South.
+              0.000,         < Yaw, Horizontal Left/Right Turn  -0 is Left, +0 is Right.
+              0.000,         < Pitch, Vertical Down/Up Nod  -0 is Down, +0 is Up.
+              0.000          < Roll, BarrelRoll -0 is Counterclockwise, +0 is Clockwise.
+              ],
+              "scale": 1     < The SCALE of the object. 1 is normal, 0.5 is half, 0.25 is a quarter size, 2 is double, etc.
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+example.json, Copy all from the first { bracket. Add Lines by Copying from AFTER the COMMA, behind the first } below (under "scale")
+
+{
+                      "Objects": [
+{
+              "name": "Land_Medical_Tent_Shower",
+              "pos": [
+              1111.123,
+              10.0,
+              1111.123
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "HuntingOptic",
+              "pos": [
+              1111.123,
+              10.0,
+              1111.123
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "AmmoBox_308Win_20Rnd",
+              "pos": [
+              1111.123,
+              10.0,
+              1111.123
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          }
+	]
+}
