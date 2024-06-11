@@ -1351,3 +1351,43 @@ When Copied, paste it behind one of those comma's, to add a new object in. Be ca
           }
 	]
 }
+
+
+When you created your something.json into the Custom folder of your File Browser.
+Go back to the dayzOffline.chernarusplus Folder, open the cfggameplay.json.
+Insert your something.json as shown below, under the "WorldsData" section. 
+or when using multiple .jsons, use a comma, as shown below that.
+::cfggameplay.json:::::::::::::::::::::::::::::::::::::<THIS ::: IS NOT CODE>
+
+	"WorldsData":
+	{
+		"lightingConfig": 1,
+		"objectSpawnersArr": 
+        [
+        "./custom/something.json"
+        ],
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::<THIS ::: IS NOT CODE>
+
+	"WorldsData":
+	{
+		"lightingConfig": 1,
+		"objectSpawnersArr": 
+        [
+        "./custom/prisonoverhaul.json",
+        "./custom/ghosttown.json",
+        "./custom/giantteddybear.json",
+        "./custom/something.json"
+        ],
+
+::BLANK::::::::::::::::::::::::::::::::::::::::::::::::<THIS ::: IS NOT CODE>
+
+	"WorldsData":
+	{
+		"lightingConfig": 1,
+		"objectSpawnersArr": 
+        [
+        "./custom/.json",
+        "./custom/.json",
+        "./custom/.json"
+        ],
