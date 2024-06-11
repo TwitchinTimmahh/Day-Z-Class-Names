@@ -348,7 +348,7 @@ Land_House_2B04  ( 2Story1 Red Brick )
 :::::::::::::::::::::::::::::::::::::::::::::::::::::
 :CITY: ( Number behind Story.. represents accessible floors, not counting attic)
 :2 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::::3 Story Buildings w Arched Windows:::::::
-Land_HouseBlock_1F_Corner  ( 2Story2 GREY Corner )                    ::  Land_HouseBlock_2F_Corner  ( 3Story1 ARCHWindow w Cell )
+Land_HouseBlock_1F_Corner  ( 2Story2 GREY Corner )                    ::  Land_HouseBlock_2F_Corner  ( 3Story1 Corner w cell )
 Land_HouseBlock_1F1  ( 2Story2 GREY w Small Tunnel Side "bAWMAYHNK" ) ::  Land_HouseBlock_2F1  ( 3Story3 w PUB "Mor Ctonobar" )
 Land_HouseBlock_1F2  ( 2Story1 GREY w Tunnel Middle )                 ::  Land_HouseBlock_2F2  ( 3Story3 w Beige/White/Orange Front )
 Land_HouseBlock_1F3  ( 2Story1 GREY w WhiteOrange Front )             ::  Land_HouseBlock_2F3  ( 3Story3 w Small Shop )
@@ -378,32 +378,31 @@ StaticObj_BusStop_Village
 Land_City_Hospital
 Land_Village_HealthCare
 :::::::::::::::::::::::::::
-:MISC STUFF::::::::::::::::
+:WATERPUMP&MISC STUFF::::::::::::::::
+Land_Misc_Well_Pump_Yellow
+Land_Misc_Well_Pump_Blue
 Land_Lamp_City1_amp  ( StreetLight w PA-Speakers )
+Land_Ladder
+Land_Ladder_Half
 :::::::::::::::::::::::::::
 :INDUSTRIAL
 Land_Misc_Toilet_Mobile
 Land_Workshop1  ( Concrete Shed GarageDoors )
 Land_Workshop2  ( Concrete Utility Shed )
-Land_Workshop3
-Land_Workshop4
-Land_Workshop5
+Land_Workshop3  ( Concrete Utility w Windows )
+Land_Workshop4  ( Concrete w extra small room )
+Land_Workshop5  ( Concrete L Utility )
+<><>
+Land_City_Store_WithStairs  ( Large Store )
+Land_Guardhouse  ( Small Green )
+Land_Water_Station  ( Square Utility Room )
 
-"Land_Ladder",
-"Land_Ladder_Half",
-
-
-"",
-
-"Land_Misc_Well_Pump_Yellow",
-"Land_Misc_Well_Pump_Blue",
-"
-
-"Land_Office1",
-"Land_Office2",
-"Land_Village_PoliceStation",
-"Land_City_PoliceStation",
-"Land_City_School",
+<><><
+Land_Office1
+Land_Office2
+Land_Village_PoliceStation
+Land_City_PoliceStation
+Land_City_School
 "Land_Shed_M1",
 "Land_Shed_M3",
 "Land_Shed_M4",
@@ -414,7 +413,7 @@ Land_Workshop5
 "Land_Shed_W5",
 "Land_Shed_W6",
 "Land_City_Store",
-"Land_City_Store_WithStairs",
+"",
 "Land_Village_store",
 "Land_Tenement_Big",
 "Land_Tenement_Small"
@@ -581,10 +580,10 @@ Land_Farm_Strawstack or StrawStack?
 "Land_Boathouse",
 "Land_Lighthouse",
 "Land_Pier_Crane_A",
-"and_Pier_Crane_B",
+"Land_Pier_Crane_B",
 "Land_Factory_Lathes",
 "Land_Factory_Small",
-"Land_Guardhouse",
+
 "Land_Repair_Center",
 "Land_Water_Station",
 
@@ -780,7 +779,7 @@ Land_Farm_Strawstack or StrawStack?
 :Military:
 Land_Roadblock_WoodenCrate
 Land_Roadblock_Table
-Land_Mil_Tent_Big2_1_Int
+Land_Mil_Tent_Big2_1_Int ?!?
 Land_Mil_ControlTower
 :Ruins:
 Land_House_1W13_Dam  ( Overgrown House )
