@@ -572,8 +572,10 @@ StaticObj_Garbage_Pile4
 StaticObj_Garbage_Pile5
 
 :Power Station:
-StaticObj_Power_TransformerStation_Big
-Land_WindPowerPlant_Grey
+StaticObj_Power_TransformerStation_Big  ( Transformer Yard )
+Land_WindPowerPlant_Grey  ( Large Wind Turbine )
+land_dieselpowerplant_tank_small  ( Tall&Thin Silo )
+land_dieselpowerplant_building  ( Weirdly good detailed, non accessible )
 
 :RailWay/Bridges:
 StaticObj_Mine_Rail_Tram ?MinecartOrRailway?
