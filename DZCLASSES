@@ -663,7 +663,11 @@ Land_Ladder_Half
 ░▒▓██████▓▒░░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
 ░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
 ░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
-::
+::BARNS::::
+Land_Barn_Wood1  ( Wooden Base Barn, Long Version )
+Land_Barn_Wood2  ( Wooden Base Barn, Short Version )
+Land_Barn_Brick2  ( Concrete Hay Barn w 2 Staircases )
+
 misc_through_static  ( Through, Holds Water )
 
 
