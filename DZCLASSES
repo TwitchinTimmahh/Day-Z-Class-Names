@@ -1391,3 +1391,6 @@ or when using multiple .jsons, use a comma, as shown below that.
         "./custom/.json",
         "./custom/.json"
         ],
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::<THIS ::: IS NOT CODE>
+In short: Create a file in Custom, name it something.json, save it, mention it in the cfggameplay.json under "WorldsData". Easy.
