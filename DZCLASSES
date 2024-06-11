@@ -20,15 +20,19 @@ IDEAS:  Bridge made of WoodenLogs ?
 - Weapons - Ammunition - Clothing - Masks - Crafted - Halloween - Medieval - Food & Drinks - Fauna - Flora - 
 Uncat: StarlightOptic 
 
-::WEAPONS::
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░░▒▓██████▓▒░░▒▓███████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░ ░▒▓███████▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓██████▓▒░ ░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░  
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░ 
+ ░▒▓█████████████▓▒░░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░       ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░  
 :BLUNT-MELEE-WEAPONS/TOOLS::::::::::::::::::::EDGED-MELEE-WEAPONS/TOOLS:::::::::::::::::::::::
 BaseballBat                              ::   WoodAxe - Hatchet - FireFighterAxe            ::
 BarbedBaseballBat - NailedBaseballBat    ::   FirefighterAxe_Black - FirefighterAxe_Green   ::
 BrassKnuckles_Dull - BrassKnuckles_Shiny ::   PickAxe - Shovel - FieldShovel                ::
 PipeWrench                               ::   Cleaver - CombatKnife - HuntingKnife          ::
 TelescopicBaton                          ::   Machete - OrientalMachete                     ::
-HockeyStick - NewHockeyStick             ::   Sword - StoneKnife                            ::
-PoliceBaton                              ::                                                 ::
+HockeyStick - NewHockeyStick             ::   Sword                                         ::
+PoliceBaton                              ::   StoneKnife                                    ::
 SledgeHammer                             ::                                                 ::
                                          ::                                                 ::
 :POINTED-MELEE-WEAPONS/TOOLS::::::::::::::::::BAYONET-MELEE-WEAPONS/TOOLS:::::::::::::::::::::
@@ -51,8 +55,104 @@ M18SmokeGrenade_White        Grenade_ChemGas
 M18SmokeGrenade_Yellow
 RDG2SmokeGrenade_Black
 RDG2SmokeGrenade_White
+:::::::::::::::::::::::::
+:AMMO SINGLE::::::::::AMMO BOX:::::::
+Ammo_45ACP        ::  AmmoBox_45ACP_25rnd
+Ammo_308Win       ::  AmmoBox_308Win_20Rnd
+Ammo_9x19         ::  AmmoBox_9x19_25rnd
+Ammo_380          ::  AmmoBox_380_35rnd
+Ammo_556x45       ::  AmmoBox_556x45_20Rnd
+Ammo_762x54       ::  AmmoBox_762x54_20Rnd
+Ammo_762x54Tracer ::
+Ammo_762x39       ::  AmmoBox_762x39_20Rnd
+Ammo_9x39         ::  AmmoBox_9x39_20Rnd
+Ammo_22           ::  AmmoBox_22_50Rnd
+Ammo_12gaPellets  ::  AmmoBox_00buck_10rnd
+Ammo_12gaSlug     ::
+Ammo_357          ::  AmmoBox_357_20Rnd
+Ammo_545x39       ::  AmmoBox_545x39_20Rnd
+:::::::::::::::::::::::::::::::::::::::::::::::
+:BOLTS::::::::::::::::::TESTBELOW::::::::::::::
+Ammo_ArrowComposite ::  Ammo_DartSyringe
+Ammo_SharpStick     ::  Ammo_Flare
+Ammo_ArrowPrimitive ::  Ammo_RPG7_HE
+Ammo_ArrowBoned     ::  Ammo_RPG7_AP
+Ammo_ArrowBolt      ::  Ammo_LAW_HE
+                    ::  Ammo_GrenadeM4
+::::::::::::::::::::::::
+Mag_Deagle_9rnd
+Mag_Ruger1022_15Rnd
+Mag_Ruger1022_30Rnd
+Mag_FNX45_15Rnd
+Mag_357Speedloader_6Rnd
+Mag_DE_9rnd
+Mag_1911_7Rnd
+Mag_CZ75_15Rnd
+Mag_Glock_15Rnd
+Mag_P1_8Rnd
+Mag_IJ70_8Rnd
+Mag_MP5_15Rnd
+Mag_MP5_30Rnd
+Mag_PM73_15Rnd
+Mag_PM73_25Rnd
+Mag_CZ61_20Rnd
+Mag_MKII_10Rnd
+Mag_ShockCartridge
+Mag_CLIP762x54_5Rnd
+Mag_762x54Snaploader_2Rnd
+Mag_308WinSnaploader_2Rnd
+Mag_CLIP762x39_10Rnd
+Mag_CLIP9x19_10Rnd
+Mag_AKM_30Rnd
+Mag_AKM_Drum75Rnd
+Mag_AKM_Drum75Rnd_Black
+Mag_AKM_Drum75Rnd_Green
+Mag_AKM_Palm30Rnd
+Mag_AKM_Palm30Rnd_Black
+Mag_AKM_Palm30Rnd_Green
+Mag_CZ527_5rnd
+Mag_STANAG_30Rnd
+Mag_STANAGCoupled_30Rnd
+Mag_CMAG_10Rnd
+Mag_CMAG_10Rnd_Black
+Mag_CMAG_10Rnd_Green
+Mag_CMAG_20Rnd
+Mag_CMAG_20Rnd_Black
+Mag_CMAG_20Rnd_Green
+Mag_CMAG_30Rnd
+Mag_CMAG_30Rnd_Black
+Mag_CMAG_30Rnd_Green
+Mag_CMAG_40Rnd
+Mag_CMAG_40Rnd_Black
+Mag_CMAG_40Rnd_Green
+Mag_AK101_30Rnd
+Mag_AK101_30Rnd_Black
+Mag_AK101_30Rnd_Green
+Mag_AK74_30Rnd
+Mag_AK74_30Rnd_Black
+Mag_AK74_30Rnd_Green
+Mag_SVD_10Rnd
+Mag_FAL_20Rnd
+Mag_Scout_5Rnd
+Mag_UMP_25Rnd
+Mag_VSS_10Rnd
+Mag_M249_Box200Rnd
+Mag_12gaSnaploader_2Rnd
+Mag_Saiga_5Rnd
+Mag_Saiga_8Rnd
+Mag_Saiga_Drum20Rnd
+Mag_Arrows_Quiver
+Mag_Bolts_Quiver
+Mag_Dartgun_CO2
+Mag_Groza_20Rnd
+Mag_MakarovPB_8Rnd
 
-::MEDICAL::
+
+░▒▓██████████████▓▒░░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓██████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓████████▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░       
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░ 
 :FirstAId:
 FirstAidKit (Size/Slot:9)
 BandageDressing
@@ -123,7 +223,11 @@ CigarettePack_Partyzanka
 ::FIREWORKS::
 FireworksLauncher  ( Regular )
 Anniversary_FireworksLauncher  ( 10 Years )
-
+ ░▒▓██████▓▒░░▒▓█▓▒░      ░▒▓██████▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░ 
+░▒▓█▓▒░      ░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░      ░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓████████▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒▒▓███▓▒░  
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+ ░▒▓██████▓▒░░▒▓████████▓▒░▒▓██████▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░  
 ::MASKS::
 EyeMask_Black - EyeMask_Blue - Eyeask_Christmas - EyeMask_Dead
 EyeMask_NewYears - EyeMask_Red - EyeMask_Valentines - EyeMask_Yellow
@@ -581,11 +685,10 @@ Land_Farm_Strawstack or StrawStack?
 "Land_Lighthouse",
 "Land_Pier_Crane_A",
 "Land_Pier_Crane_B",
-"Land_Factory_Lathes",
-"Land_Factory_Small",
+Land_Factory_Lathes  ( Large Factory w 7 machines in back )
+Land_Factory_Small
 
-"Land_Repair_Center",
-"Land_Water_Station",
+Land_Repair_Center
 
 "Land_Mine_Building",
 "Land_Misc_Scaffolding",
