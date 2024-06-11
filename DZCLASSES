@@ -14,7 +14,6 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░     ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░             ░▒▓█▓▒░ 
  ░▒▓██████▓▒░░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░  
 EXAMPLE OF WHAT YOUR .json NEEDS TO LOOK LIKE IS ON THE VERY BOTTOM OF THIS PAGE.
-IF YOU WANT TO ADD LINES, COPY & PASTE the MIDDLE section from after the comma and over the comma.
 The list is incomplete and names will be added and sorted.
 All item names are categorized respectively AND categorized upon their usage, camo pattern and/or attachments and such.
 So item names could be listed twice or more, depending.
@@ -27,10 +26,10 @@ Equipment LayOut:
 L.Shoulder - R.Shoulder - Vest - Top - Belt - Legs - Back - Hat
 Face - Eyes - Gloves - Feet - Armband
 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
-IDEAS:  Bridge made of WoodenLogs ?
-        Bridge with roofing
-        Skeleton with Axe Head VV
-        Skeletons Fight, key in stomach handcuffs
+Note :  Bridge made of WoodenLogs ?  ||  Loadout: NBC, Tourist, Prison Guard, Prisoner, Doctor, Soldier, Police Officer
+to      Bridge with roofing ?
+ Self   Skeleton with Axe Head VV
+        Skeletons Fight, key in stomach handcuffs ?
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 ::WEAPONS::MELEE::HANDGUNS::SUBMACHINEGUNS::A
 - Weapons - Ammunition - Clothing - Masks - Crafted - Halloween - Medieval - Food & Drinks - Fauna - Flora - 
@@ -666,7 +665,11 @@ Land_Ladder_Half
 ::BARNS::::
 Land_Barn_Wood1  ( Wooden Base Barn, Long Version )
 Land_Barn_Wood2  ( Wooden Base Barn, Short Version )
-Land_Barn_Brick2  ( Concrete Hay Barn w 2 Staircases )
+Land_Barn_Brick1  ( Concrete Hay Barn w 2 Staircases )
+Land_Barn_Brick2  ( Concrete Hay Barn )
+Land_Farm_Cowsheda  ( Stall w Front&Side Entrance )
+Land_Farm_Cowshedb  ( Stall Middle Section )
+Land_Farm_Cowshedc  ( Stall End Side Entrance )
 
 misc_through_static  ( Through, Holds Water )
 
