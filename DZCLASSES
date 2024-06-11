@@ -493,10 +493,10 @@ Land_Castle_Bastion_nolc  ( Same As Above? )
 :Civilian:
 
 :Coast:
-Land_Boathouse
-Land_Boat_Small1
-Land_Boat_Small2
-Land_Boat_Small3
+Land_Boathouse  ( Large Wooden Boathouse )
+Land_Boat_Small1  ( Rowboat )
+Land_Boat_Small2 ( Red Rowboat Upsidedown )
+Land_Boat_Small3 ( Rowboat Upsidedown )
 
 :Concrete Structures:
 StaticObj_Target_Concrete_Ramp  ( Small Concrete Ramp )
