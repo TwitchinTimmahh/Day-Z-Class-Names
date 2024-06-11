@@ -1288,7 +1288,7 @@ ZmbM_usSoldier_normal_Woodland [Infected]
 ::::::::::::::EXPLAINED:::::::::::::::::::
               "pos": [
               1111.123,  < X-axis - West to East, 0 to +0  ( 0 is absolute West of actual map, may go negative to place further west? )
-              10.0,      < Y-axis - Ground Height -0 to +0 ( May contain negative values. 0 is SEA LEVEL
+              10.0,      < Y-axis - Ground Height -0 to +0 ( May contain negative values. 0 is SEA LEVEL NOT GROUND LEVEL!!! )
               1111.123   < Z-axis - South to North 0 to +0 ( 0 is absolute South of actual map, may go negative to place further south? )
 1111 = 1111meters. 123 = 1 Decimal, 2 Centimeters & 3 Millimeters. ? away from 0 west or 0 south. Easy.
             ],
@@ -1299,7 +1299,11 @@ ZmbM_usSoldier_normal_Woodland [Infected]
               ],
               "scale": 1     < The SCALE of the object. 1 is normal, 0.5 is half, 0.25 is a quarter size, 2 is double, etc.
 VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
-example.json, Copy all from the first { bracket. Add Lines by Copying from AFTER the COMMA, behind the first } below (under "scale")
+When lacking DayZ Editor, you may want to load in a LoadOut.json with GPS, RangeFinder & Compass, to fine tune your buildings.
+Use iZurvive for the rough X (west-east) & Z (north-south) coordinates, you still need the GPS for the actual Height in Meters.
+IN YOUR FILE BROWSER ON YOUR SERVER, GO TO CUSTOM AND CREATE A NEW FILE and name it something.json
+Copy all from the first { bracket. Add Lines by Copying from AFTER the COMMA, behind the first } below (under "scale")
+When Copied, paste it behind one of those comma's, to add a new object in. Be careful with typo's, it does not like it.
 
 {
                       "Objects": [
