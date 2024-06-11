@@ -93,10 +93,99 @@ Ammo_ArrowPrimitive ::  Ammo_RPG7_HE
 Ammo_ArrowBoned     ::  Ammo_RPG7_AP
 Ammo_ArrowBolt      ::  Ammo_LAW_HE
                     ::  Ammo_GrenadeM4
-::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::
+:Rifle Wrap:
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieAtt_Woodland
+:::::::::::::::::::::::::::
+AK74
+AK74_Black
+AK74_Green
+Mag_AK74_30Rnd
+Mag_AK74_30Rnd_Black
+Mag_AK74_30Rnd_Green
+Mag_AK74_45Rnd
+*Can Load AKS74U Mags!
+KA_Bayonet
+AK_Suppressor
+UniversalLight
+AK74_Hndgrd
+AK74_Hndgrd_Black
+AK74_Hndgrd_Camo
+AK74_WoodBttstck
+AK74_WoodBttstck_Black
+AK74_WoodBttstck_Camo
+KobraOptic
+PSO1Optic
+PSO11Optic
+KashtanOptic
+KazuarOptic
+
+AKS74U
+AKS74U_Black
+AKS74U_Green
+AK101
+AK101_Black
+AK101_Green
+AKM
+AugSteyr
+B95 [Blaze]
+B95_Black [Blaze]
+B95_Green [Blaze]
+CZ527 [CR-527]
+CZ527_Black [CR-527]
+CZ527_Camo [CR-527]
+CZ527_Green [CR-527]
+CZ61 [CR-61 Skorpion]
+CZ75 [CR-75]
+FAL [LAR]
+Izh18 [BK-18]
+Izh43Shotgun [BK-43]
+SawedoffIzh18
+M4A1
+M4A1_Green
+M4A1_Black
+M249
+Mosin9130
+Mosin9130_Black
+Mosin9130_Green
+Mosin9130_Camo
+SawedoffMosin9130
+SawedoffMosin9130_Black
+SawedoffMosin9130_Green
+SawedoffMosin9130_Camo
+MP5K
+Groza
+PM73Rak
+Repeater
+:::::::::::::::::::::::::::
+Ruger1022  ( Sporter22 ) ::
+Ruger1022_Black          ::
+Ruger1022_Green          ::
+Mag_Ruger1022_15Rnd      ::
+Mag_Ruger1022_30Rnd      ::
+Ammo_22                  ::
+AmmoBox_22_50Rnd         ::
+HuntingOptic             ::
+Standardized_Suppressor  ::
+:::::::::::::::::::::::::::
+Scout
+Scout_Black
+Scout_Green
+SKS
+SKS_Black
+SKS_Green
+SVD
+Trumpet
+UMP45
+VSS
+Winchester70 [M70 Tundra]
+Winchester70_Black [M70 Tundra]
+Winchester70_Green [M70 Tundra]
+:::::::::::::::::::::::::::::::::::::::::::::::
 Mag_Deagle_9rnd
-Mag_Ruger1022_15Rnd
-Mag_Ruger1022_30Rnd
 Mag_FNX45_15Rnd
 Mag_357Speedloader_6Rnd
 Mag_DE_9rnd
@@ -142,9 +231,7 @@ Mag_CMAG_40Rnd_Green
 Mag_AK101_30Rnd
 Mag_AK101_30Rnd_Black
 Mag_AK101_30Rnd_Green
-Mag_AK74_30Rnd
-Mag_AK74_30Rnd_Black
-Mag_AK74_30Rnd_Green
+
 Mag_SVD_10Rnd
 Mag_FAL_20Rnd
 Mag_Scout_5Rnd
@@ -160,6 +247,63 @@ Mag_Bolts_Quiver
 Mag_Dartgun_CO2
 Mag_Groza_20Rnd
 Mag_MakarovPB_8Rnd
+**Supports**
+M4_OEBttstck
+M4_OEBttstck_Black
+M4_OEBttstck_Green
+M4_MPBttstck
+M4_MPBttstck_Black
+M4_MPBttstck_Green
+M4_CQBBttstck
+M4_CQBBttstck_Black
+M4_CQBBttstck_Green
+AK_WoodBttstck
+AK_WoodBttstck_Black
+AK_WoodBttstck_Camo
+
+AK_FoldingBttstck
+AK_FoldingBttstck_Black
+AK_FoldingBttstck_Green
+AK_PlasticBttstck
+AK_PlasticBttstck_Black
+AK_PlasticBttstck_Green
+AKS74U_Bttstck
+AKS74U_Bttstck_Black
+AKS74U_Bttstck_Green
+MP5k_StockBttstck
+Red9Bttstck
+Fal_OeBttstck
+Fal_FoldingBttstck
+Saiga_Bttstck
+M4_PlasticHndgrd
+M4_PlasticHndgrd_Black
+M4_PlasticHndgrd_Green
+M4_RISHndgrd
+M4_RISHndgrd_Black
+M4_RISHndgrd_Green
+M4_MPHndgrd
+M4_MPHndgrd_Black
+M4_MPHndgrd_Green
+AK_WoodHndgrd
+AK_WoodHndgrd_Black
+AK_WoodHndgrd_Camo
+
+AK_RailHndgrd
+AK_RailHndgrd_Black
+AK_RailHndgrd_Green
+AK_PlasticHndgrd
+MP5_PlasticHndgrd
+MP5_RailHndgrd
+M249_Hndgrd
+M249_RisHndgrd
+AtlasBipod
+M249_Bipod
+GhillieAtt_Mossy [Ghillie Rifle Wrap]
+GhillieAtt_Tan [Ghillie Rifle Wrap]
+GhillieAtt_Woodland [Ghillie Rifle Wrap]
+Groza_LowerReceiver
+GrozaGL_LowerReceiver
+
 
 
 ░▒▓██████████████▓▒░░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░        
@@ -1136,3 +1280,10 @@ ZmbM_usSoldier_normal_Woodland [Infected]
 
 
 
+░▒▓████████▓▒░▒▓████████▓▒░ 
+   ░▒▓█▓▒░      ░▒▓█▓▒░     
+   ░▒▓█▓▒░      ░▒▓█▓▒░     
+   ░▒▓█▓▒░      ░▒▓█▓▒░     
+   ░▒▓█▓▒░      ░▒▓█▓▒░     
+   ░▒▓█▓▒░      ░▒▓█▓▒░     
+   ░▒▓█▓▒░      ░▒▓█▓▒░     
