@@ -353,45 +353,52 @@ Land_HouseBlock_1F1  ( 2Story2 GREY w Small Tunnel Side "bAWMAYHNK" ) ::  Land_H
 Land_HouseBlock_1F2  ( 2Story1 GREY w Tunnel Middle )                 ::  Land_HouseBlock_2F2  ( 3Story3 w Beige/White/Orange Front )
 Land_HouseBlock_1F3  ( 2Story1 GREY w WhiteOrange Front )             ::  Land_HouseBlock_2F3  ( 3Story3 w Small Shop )
 Land_HouseBlock_1F4  ( 2Story1 GREY w GreyOrange Front )              ::  Land_HouseBlock_2F4  ( 3Story3 GREY )
-Land_House_1W08  ( 1Story1 OrangeGreen )
-Land_House_1W09  ( 1Story1 GreenRed )
-Land_House_1W10  ( 1Story1 Yellowish )
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  Land_HouseBlock_2F6  ( 3Story3 GREY GREEN )
-:4 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::  Land_HouseBlock_2F7  ( 3Story1 w Tunnel & Shop )
+Land_House_1W08  ( 1Story1 OrangeGreen )                              ::  Land_HouseBlock_2F6  ( 3Story3 GREY GREEN )
+Land_House_1W09  ( 1Story1 GreenRed )                                 ::  Land_HouseBlock_2F7  ( 3Story1 w Tunnel & Shop )
+Land_House_1W10  ( 1Story1 Yellowish )                                ::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:4 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Land_HouseBlock_3F_Corner1  ( 4Story ? Corner )                       :::::::::::::::::::::::::::::::::::::
 Land_HouseBlock_3F_Corner2  ( 4Story ? Corner )                       ::::3 Story Buildings::::::::::::::::
 Land_HouseBlock_3F1  ( 4Story4 GARAGE "CEPBNC MAWNH" )                ::  Land_HouseBlock_2F5  ( 3Story1 GREY OneSideShop )
 Land_HouseBlock_3F2  ( 4Story1 PUB "Pectabpauhr" )                    ::  Land_HouseBlock_2F8  ( 3Story3 WhiteBrickOrangeRim )
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  Land_HouseBlock_2F9  ( 3Story1 GREY WhiteBrickOrangeRim )
 :6 Story Buildings::::::::::::::::::::::::::::::::::::::::::::::::::::::
-Land_HouseBlock_5F  ( 6Story1 w Nameless PUB )
+Land_HouseBlock_5F  ( 6Story1 w Nameless PUB )                        ::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:GARDEN/UTILITY:
-Land_Misc_Greenhouse
-Land_Misc_Toilet_Dry
-:SERVICES:
+:GARDEN/UTILITY:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::MISC WILDERNESS:
+Land_Misc_Greenhouse                                                  ::  Land_Misc_FeedShack
+Land_Misc_Toilet_Dry                                                  ::  Land_Misc_DeerStand1
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  Land_Misc_DeerStand2
+:SERVICES:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Land_Office_Municipal1  ( Novodmitrovsk Town Hall )
+Land_Office_Municipal2  ( Chernogorsk Town Hall )
+
 StaticObj_BusStop_Village
 Land_City_Hospital
 Land_Village_HealthCare
-
-:MISC WILDERNESS:
-Land_Misc_FeedShack
-Land_Misc_DeerStand1
-Land_Misc_DeerStand2
-
+:::::::::::::::::::::::::::
+:MISC STUFF::::::::::::::::
+Land_Lamp_City1_amp  ( StreetLight w PA-Speakers )
+:::::::::::::::::::::::::::
+:INDUSTRIAL
+Land_Misc_Toilet_Mobile
+Land_Workshop1  ( Concrete Shed GarageDoors )
+Land_Workshop2  ( Concrete Utility Shed )
+Land_Workshop3
+Land_Workshop4
+Land_Workshop5
 
 "Land_Ladder",
 "Land_Ladder_Half",
 
-"Land_Misc_Greenhouse",
-"Land_Misc_Toilet_Mobile",
-"Land_Misc_Toilet_Dry",
+
+"",
+
 "Land_Misc_Well_Pump_Yellow",
 "Land_Misc_Well_Pump_Blue",
-"Land_Lamp_City1_amp",
-"Land_Office_Municipal1",
-"Land_Office_Municipal2",
+"
+
 "Land_Office1",
 "Land_Office2",
 "Land_Village_PoliceStation",
@@ -580,11 +587,7 @@ Land_Farm_Strawstack or StrawStack?
 "Land_Guardhouse",
 "Land_Repair_Center",
 "Land_Water_Station",
-"Land_Workshop1",
-"Land_Workshop2",
-"Land_Workshop3",
-"Land_Workshop4",
-"Land_Workshop5",
+
 "Land_Mine_Building",
 "Land_Misc_Scaffolding",
 "Land_Pipe_Big_BuildR",
