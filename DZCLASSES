@@ -1,7 +1,7 @@
 ▓█████▄  ▄▄▄     ▓██   ██▓   ▒███████▒
-▒██▀ ██▌▒████▄    ▒██  ██▒   ▒ ▒ ▒ ▄▀░
-░██   █▌▒██  ▀█▄   ▒██ ██░   ░ ▒ ▄▀▒░ 
-░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░     ▄▀▒   ░
+▒██▀ ██▌▒████▄    ▒██  ██▒   ▒ ▒ ▒ ▄▀░    DayZ ClassNames
+░██   █▌▒██  ▀█▄   ▒██ ██░   ░ ▒ ▄▀▒░     Made for those that lack DayZ Editor, but have a server and want to add stuff in.
+░▓█▄   ▌░██▄▄▄▄██  ░ ▐██▓░     ▄▀▒   ░    
 ░▒████▓  ▓█   ▓██▒ ░ ██▒▓░   ▒███████▒
  ▒▒▓  ▒  ▒▒   ▓▒█░  ██▒▒▒    ░▒▒ ▓░▒░▒
  ░ ▒  ▒   ▒   ▒▒ ░▓██ ░▒░    ░░▒ ▒ ░ ▒
@@ -13,6 +13,8 @@
 ░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓████████▓▒░░▒▓██████▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓██████▓▒░  ░▒▓██████▓▒░  
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░     ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░             ░▒▓█▓▒░ 
  ░▒▓██████▓▒░░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░  
+EXAMPLE OF WHAT YOUR .json NEEDS TO LOOK LIKE IN THE README!!
+IF YOU WANT TO ADD LINES, COPY & PASTE the MIDDLE section from after the comma and over the comma.
 The list is incomplete and names will be added and sorted.
 All item names are categorized respectively AND categorized upon their usage, camo pattern and/or attachments and such.
 So item names could be listed twice or more, depending.
