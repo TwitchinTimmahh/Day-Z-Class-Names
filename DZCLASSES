@@ -48,7 +48,7 @@ BaseballBat                              ::   WoodAxe - Hatchet - FireFighterAxe
 BarbedBaseballBat - NailedBaseballBat    ::   FirefighterAxe_Black - FirefighterAxe_Green   ::
 BrassKnuckles_Dull - BrassKnuckles_Shiny ::   PickAxe - Shovel - FieldShovel                ::
 PipeWrench                               ::   Cleaver - CombatKnife - HuntingKnife          ::
-TelescopicBaton                          ::   Machete - OrientalMachete                     ::
+TelescopicBaton                          ::   Machete - OrientalMachete - CrudeMachete      ::
 HockeyStick - NewHockeyStick             ::   Sword                                         ::
 PoliceBaton                              ::   StoneKnife                                    ::
 SledgeHammer                             ::   SteakKnife                                    ::
@@ -449,20 +449,30 @@ VomitBloodGround
 VomitGround 
 Land_Jmc_Skeleton_Bloody_1
 Land_Jmc_Van_Ambulance
-StaticObj_Misc_WoodBlock
+StaticObj_Misc_WoodBlock  ( Log Stump )
 StaticObj_Misc_BoxWooden
+StaticObj_Misc_WoodPile_Forest2
 StaticObj_Slum_Roof1
 StaticObj_Slum_Roof2
 StaticObj_Slum_Roof3
 StaticObj_Slum_Roof4
 StaticObj_Slum_Roof5
+StaticObj_Slum_Roof6
+StaticObj_Wall_Tin6_1_4
+StaticObj_Wall_Tin6_2_4
 StaticObj_Wall_CGry_5
 StaticObj_Wall_CGry_Corner
 FireplaceIndoor - Firewood
 StaticObj_Furniture_fireplace_grill
+StaticObj_Furniture_shelfs_small
+StaticObj_Furniture_sofa_leather_old
+StaticObj_Furniture_table_DZ
 StaticObj_Wall_Tin_Pole
 DeadChicken_Brown
+StaticObj_Misc_Bench3
+StaticObj_Misc_Bench5
 StaticObj_Misc_Bench9
+StaticObj_Sidewalk2_5m
 =====================================================================================================================
 ░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓███████▓▒░░▒▓█▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░ ░▒▓███████▓▒░  
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░        
