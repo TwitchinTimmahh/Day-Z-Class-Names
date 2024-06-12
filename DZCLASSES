@@ -152,6 +152,7 @@ FAL [LAR]
 Izh18 [BK-18]
 Izh43Shotgun [BK-43]
 SawedoffIzh18
+M16A2
 M4A1
 M4A1_Green
 M4A1_Black
@@ -468,7 +469,7 @@ StaticObj_Slum_Roof6
 StaticObj_Wall_Tin6_1_4
 Land_Wall_Gate_Tin6_2
 StaticObj_Wall_Tin6_2_4
-
+StaticObj_Mil_ReinforcedTank1_Grass
 StaticObj_Wall_CGry_5
 StaticObj_Wall_CGry_Corner
 FireplaceIndoor - Firewood
@@ -490,12 +491,13 @@ StaticObj_Lamp_Decorative
 StaticObj_Furniture_vending_machine
 StaticObj_Cemetery_SmallCross
 StaticObj_Cemetery_SmallCross2
+StaticObj_Cemetery_Tombstone9
 StaticObj_Misc_Sunshade
 StaticObj_Path_Panels
 StaticObj_Path_Panels_Damaged
 StaticObj_Misc_Table_Camp_Small
 StaticObj_Misc_Fountain
-StaticObj_Statue_Enoch1
+StaticObj_Statue_Enoch1  ( Statue of Woman )
 StaticObj_Misc_WoodTable_Outdoor
 StaticObj_Furniture_matress_white
 StaticObj_Mil_BlastCover4_Grass_L
@@ -507,8 +509,30 @@ StaticObj_Misc_Gunrack
 Land_Wall_Gate_Wood4
 MetalPlate
 StaticObj_Misc_Pallet
+StaticObj_Misc_Pallets2
 StaticObj_Misc_Pallets3
 StaticObj_Misc_Timbers_Log3
+StaticObj_Misc_PostBox1
+StaticObj_Furniture_picture_d_02
+StaticObj_Garbage_Pile2
+StaticObj_Garbage_Pile3
+StaticObj_Garbage_Pile4
+StaticObj_Garbage_Pile8
+StaticObj_Rubble_DirtPile_Large
+StaticObj_Rubble_DirtPile_Medium1
+StaticObj_Wall_Fen5_10_D
+StaticObj_Wall_Fen4_Pole
+StaticObj_Power_WireTel_50_Main
+StaticObj_Power_Pole_ConcT
+StaticObj_Power_Pole_Wood3
+StaticObj_Power_Pole_Wood4_A_J_Nest
+StaticObj_Wall_VilVar2_Pole
+StaticObj_Misc_TirePile
+StaticObj_Wall_Fen7_Pole
+StaticObj_Roadblock_Bags_EndL
+StaticObj_Roadblock_Bags_Curve
+StaticObj_Roadblock_Bags_Long
+StaticObj_Misc_WoodenCrate_5x
 =====================================================================================================================
 ░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓███████▓▒░░▒▓█▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░ ░▒▓███████▓▒░  
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░        
@@ -516,10 +540,17 @@ StaticObj_Misc_Timbers_Log3
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░
 ░▒▓███████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓███████▓▒░  
 ::::::::::::::::::::::::::::::::::::::::::AND SOME OTHER STUFF::::::::::::::::::::::::::::::::::::::::::
-:Uncat: 
+::UnCategorized:
+
+:The Lucky Ones..: 
 StaticObj_Hanged_civil  ( Mr. Hangman... Bring me a rope.. )
 StaticObj_Hanged_doctor  ( Guess who lost playing hangman )
-
+StaticObj_Forest_HumanSkeleton  ( Skeleton )
+StaticObj_Dead_MassGrave_8m
+StaticObj_Dead_pile1
+StaticObj_Dead_pile2
+StaticObj_Dead_pile3
+StaticObj_Dead_pile4
 :Aqua:
 StaticObj_water_pond_50x50m ( Adds a water tile )
 Land_Misc_Well_Pump_Yellow
@@ -707,6 +738,7 @@ Land_Office_Municipal1  ( Novodmitrovsk Town Hall )
 Land_Office_Municipal2  ( Chernogorsk Town Hall )
 
 StaticObj_BusStop_Village
+Land_BusStation_wall_bench
 Land_BusStop_Village2
 Land_BusStop_City
 Land_City_Hospital
@@ -872,7 +904,7 @@ StaticObj_Wall_FenStadium ( Chainlink )
 
 
 ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓███████▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░           Miscellaneous
 ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓██████▓▒░░▒▓█▓▒░      ░▒▓███████▓▒░ ░▒▓██████▓▒░  
 ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░ 
  ░▒▓█████████████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░  
@@ -889,6 +921,11 @@ StaticObj_Misc_SupplyBox2_DE
 StaticObj_Misc_SupplyBox3_DE
 StaticObj_Roadblock_Wood_Long_DE
 StaticObj_Roadblock_Wood_Small_DE
+Land_Train_Wagon_Box
+StaticObj_Rail_TrackE_40
+StaticObj_Rail_Track_TurnOutL
+StaticObj_Rail_LineBreak_Concrete
+StaticObj_Wreck_Train_Wagon_Flat
 StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE
 StaticObj_Train_Wagon_Flat_Industrial_Planks_DE
 StaticObj_Wreck_BMP1_DE
