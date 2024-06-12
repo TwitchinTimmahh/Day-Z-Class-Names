@@ -35,7 +35,10 @@ to      Bridge with roofing ?  || ifuckinghatenuketown.json
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
 ::WEAPONS::MELEE::HANDGUNS::SUBMACHINEGUNS::A
 - Weapons - Ammunition - Clothing - Masks - Crafted - Halloween - Medieval - Food & Drinks - Fauna - Flora - 
-Uncat: StarlightOptic 
+=====================================================================================================================
+Uncat: 
+StarlightOptic
+WaterPouch_Natural
 =====================================================================================================================
 =====================================================================================================================
 ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░░▒▓██████▓▒░░▒▓███████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░ ░▒▓███████▓▒░ 
@@ -52,7 +55,7 @@ TelescopicBaton                          ::   Machete - OrientalMachete - CrudeM
 HockeyStick - NewHockeyStick             ::   Sword                                         ::
 PoliceBaton                              ::   StoneKnife                                    ::
 SledgeHammer                             ::   SteakKnife                                    ::
-                                         ::                                                 ::
+                                         ::   FangeKnife                                    ::
 :POINTED-MELEE-WEAPONS/TOOLS::::::::::::::::::BAYONET-MELEE-WEAPONS/TOOLS:::::::::::::::::::::
 Pitchfork                                ::   KA_Bayonet                                    ::
 SharpenedStick                           ::   M4A1_Bayonet                                  ::
@@ -74,9 +77,9 @@ M18SmokeGrenade_Yellow
 RDG2SmokeGrenade_Black
 RDG2SmokeGrenade_White
 :::::::::::::::::::::::::
-:AMMO SINGLE::::::::::AMMO BOX:::::::
-Ammo_45ACP        ::  AmmoBox_45ACP_25rnd
-Ammo_308Win       ::  AmmoBox_308Win_20Rnd
+:AMMO SINGLE::::::::::AMMO BOX::::::::::::::::::TRACERROUNDSBOX:
+Ammo_45ACP        ::  AmmoBox_45ACP_25rnd   ::
+Ammo_308Win       ::  AmmoBox_308Win_20Rnd  ::  Ammo_308WinTracer
 Ammo_9x19         ::  AmmoBox_9x19_25rnd
 Ammo_380          ::  AmmoBox_380_35rnd
 Ammo_556x45       ::  AmmoBox_556x45_20Rnd
@@ -427,6 +430,9 @@ WitchHood_Chainmail_Red
 
 ::FOOD&DRINKS::
 SlicedPumpkin
+Kiwi
+Plum
+Banan
 
 :WildEdibles:
 AgaricusMushroom
@@ -451,6 +457,7 @@ Land_Jmc_Skeleton_Bloody_1
 Land_Jmc_Van_Ambulance
 StaticObj_Misc_WoodBlock  ( Log Stump )
 StaticObj_Misc_BoxWooden
+StaticObj_Misc_WoodPile1
 StaticObj_Misc_WoodPile_Forest2
 StaticObj_Slum_Roof1
 StaticObj_Slum_Roof2
@@ -459,7 +466,9 @@ StaticObj_Slum_Roof4
 StaticObj_Slum_Roof5
 StaticObj_Slum_Roof6
 StaticObj_Wall_Tin6_1_4
+Land_Wall_Gate_Tin6_2
 StaticObj_Wall_Tin6_2_4
+
 StaticObj_Wall_CGry_5
 StaticObj_Wall_CGry_Corner
 FireplaceIndoor - Firewood
@@ -471,8 +480,35 @@ StaticObj_Wall_Tin_Pole
 DeadChicken_Brown
 StaticObj_Misc_Bench3
 StaticObj_Misc_Bench5
+StaticObj_Misc_Bench8
 StaticObj_Misc_Bench9
 StaticObj_Sidewalk2_5m
+StaticObj_Garbage_Container_Glass
+StaticObj_Garbage_Container_Paper
+StaticObj_Garbage_Container_Plastic
+StaticObj_Lamp_Decorative
+StaticObj_Furniture_vending_machine
+StaticObj_Cemetery_SmallCross
+StaticObj_Cemetery_SmallCross2
+StaticObj_Misc_Sunshade
+StaticObj_Path_Panels
+StaticObj_Path_Panels_Damaged
+StaticObj_Misc_Table_Camp_Small
+StaticObj_Misc_Fountain
+StaticObj_Statue_Enoch1
+StaticObj_Misc_WoodTable_Outdoor
+StaticObj_Furniture_matress_white
+StaticObj_Mil_BlastCover4_Grass_L
+StaticObj_Mil_BlastCover4_Grass_R
+StaticObj_Boathouse_PierT
+StaticObj_Boathouse_PierR
+StaticObj_Boathouse_PierL
+StaticObj_Misc_Gunrack
+Land_Wall_Gate_Wood4
+MetalPlate
+StaticObj_Misc_Pallet
+StaticObj_Misc_Pallets3
+StaticObj_Misc_Timbers_Log3
 =====================================================================================================================
 ░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓███████▓▒░░▒▓█▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░ ░▒▓███████▓▒░  
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░        
@@ -492,7 +528,7 @@ Land_Misc_Well_Pump_Yellow
 BarrelHoles_Red
 BarrelHoles_Blue
 
-:Bridges:
+:ges:
 StaticObj_Bridge_Metal_25_1  ( Concrete Small Round Pillar, Steel Bridge )
 StaticObj_Bridge_Metal_25  ( Concrete Wide Pillar, Steel Bridge )
 StaticObj_Bridge_Stone_25  ( Brick Arch )
