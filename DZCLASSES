@@ -28,8 +28,8 @@ Equipment LayOut:
 L.Shoulder - R.Shoulder - Vest - Top - Belt - Legs - Back - Hat
 Face - Eyes - Gloves - Feet - Armband
 x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
-Note :  Bridge made of WoodenLogs ?  ||  Loadout: NBC, Tourist, Prison Guard, Prisoner, Doctor, Soldier, Police Officer
-to      Bridge with roofing ?
+Note :  Bridge made of WoodenLogs ?  ||  Loadout: NBC, Tourist, Prison Guard, Prisoner, Doctor, Soldier, Police Officer,UN PRESS Dude
+to      Bridge with roofing ?  || ifuckinghatenuketown.json
  Self   Skeleton with Axe Head VV
         Skeletons Fight, key in stomach handcuffs ?
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
@@ -645,6 +645,8 @@ Land_Office_Municipal1  ( Novodmitrovsk Town Hall )
 Land_Office_Municipal2  ( Chernogorsk Town Hall )
 
 StaticObj_BusStop_Village
+Land_BusStop_Village2
+Land_BusStop_City
 Land_City_Hospital
 Land_Village_HealthCare
 :::::::::::::::::::::::::::
@@ -656,22 +658,22 @@ Land_Ladder
 Land_Ladder_Half
 =====================================================================================================================
 =====================================================================================================================
-░▒▓████████▓▒░▒▓██████▓▒░░▒▓███████▓▒░░▒▓██████████████▓▒░  
-░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓████████▓▒░▒▓██████▓▒░░▒▓███████▓▒░░▒▓██████████████▓▒░     
+░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░    Farm buildings & anything farm related.
 ░▒▓██████▓▒░░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
 ░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
 ░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
-::BARNS::::
-Land_Barn_Wood1  ( Wooden Base Barn, Long Version )
-Land_Barn_Wood2  ( Wooden Base Barn, Short Version )
-Land_Barn_Brick1  ( Concrete Hay Barn w 2 Staircases )
+::BARNS::::::::::::::::::::::::::::::::::::::::::::::::::::GREENHOUSES:::::::::::::::::::::::::::::::::::::::::::::::
+Land_Barn_Wood1  ( Wooden Base Barn, Long Version )    ::  Land_Misc_Polytunnel
+Land_Barn_Wood2  ( Wooden Base Barn, Short Version )   ::
+Land_Barn_Brick1  ( Concrete Hay Barn w 2 Staircases ) ::
 Land_Barn_Brick2  ( Concrete Hay Barn )
 Land_Farm_Cowsheda  ( Stall w Front&Side Entrance )
 Land_Farm_Cowshedb  ( Stall Middle Section )
 Land_Farm_Cowshedc  ( Stall End Side Entrance )
 
 misc_through_static  ( Through, Holds Water )
-
+Land_misc_chickenCoop  ( Not for Humans )
 =====================================================================================================================
 =====================================================================================================================
 ░▒▓█▓▒░▒▓███████▓▒░░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓███████▓▒░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░      
@@ -846,6 +848,10 @@ Land_Wreck_hb01_aban1_police
 Land_Wreck_hb01_aban2_police
 Land_Wreck_sed01_aban1_police
 Land_Wreck_sed01_aban2_police
+Land_wreck_truck01_aban1_orange
+Land_wreck_truck01_aban2_orange
+Land_wreck_truck01_aban2_green
+Land_Wreck_hb02_aban1_red  ( Burned Out Bus )
 
 ::INDUSTRIAL::
 "Land_Cementworks_Conveyorhall",
