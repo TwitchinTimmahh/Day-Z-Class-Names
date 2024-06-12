@@ -447,6 +447,8 @@ MinskRefrigerator
 Uncategorized & Unknowns:
 VomitBloodGround
 VomitGround 
+Land_Jmc_Skeleton_Bloody_1
+Land_Jmc_Van_Ambulance
 =====================================================================================================================
 ░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓███████▓▒░░▒▓█▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░ ░▒▓███████▓▒░  
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░        
@@ -558,7 +560,7 @@ Land_Bunker1_Right  ( LIV Mono Moss Covered Pillbox )
 Land_Tower_TC4_Base  ( Antenna )
 Land_Tower_TC4_Mid
 Land_Tower_TC4_Top
-Land_Tower_TC2_Base
+Land_Tower_TC2_Base  ( Round
 Land_Tower_TC2_Mid
 Land_Tower_TC2_Top  ( Antenna ) 
 
