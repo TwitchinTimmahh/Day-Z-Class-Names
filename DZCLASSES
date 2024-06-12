@@ -51,7 +51,7 @@ PipeWrench                               ::   Cleaver - CombatKnife - HuntingKni
 TelescopicBaton                          ::   Machete - OrientalMachete                     ::
 HockeyStick - NewHockeyStick             ::   Sword                                         ::
 PoliceBaton                              ::   StoneKnife                                    ::
-SledgeHammer                             ::                                                 ::
+SledgeHammer                             ::   SteakKnife                                    ::
                                          ::                                                 ::
 :POINTED-MELEE-WEAPONS/TOOLS::::::::::::::::::BAYONET-MELEE-WEAPONS/TOOLS:::::::::::::::::::::
 Pitchfork                                ::   KA_Bayonet                                    ::
@@ -809,8 +809,48 @@ StaticObj_Wall_Cnc_5
 StaticObj_Wall_FenStadium ( Chainlink )
 
 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓███████▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓██████▓▒░░▒▓█▓▒░      ░▒▓███████▓▒░ ░▒▓██████▓▒░  
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░ 
+ ░▒▓█████████████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░  
+::CIVILIAN::::::::::::::::::::::::::::::::::MILITARY::::::::::::::::::::::::::::::::::TRAIN::::::::::::::::::::::::::::::::::
 
-::VehicleWrecks::
+
+
+
+
+StaticObj_Decal_damage_long2_DE
+StaticObj_Decal_damage_long3_DE
+StaticObj_Misc_SupplyBox1_DE
+StaticObj_Misc_SupplyBox2_DE
+StaticObj_Misc_SupplyBox3_DE
+StaticObj_Roadblock_Wood_Long_DE
+StaticObj_Roadblock_Wood_Small_DE
+StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE
+StaticObj_Train_Wagon_Flat_Industrial_Planks_DE
+StaticObj_Wreck_BMP1_DE
+StaticObj_Wreck_BMP1_NoPlacement_DE
+StaticObj_Wreck_BMP2_DE
+StaticObj_Wreck_BRDM_DE
+StaticObj_Wreck_Decal_Big_DE
+StaticObj_Wreck_Decal_Small1_DE
+StaticObj_Wreck_Decal_Small2_DE
+StaticObj_Wreck_T72_Chassis_DE          ::                                        ::  
+StaticObj_Wreck_T72_Turret_DE
+StaticObj_Wreck_Train_742_Blue_DE
+StaticObj_Wreck_Train_742_Blue_Mil_DE
+StaticObj_Wreck_Train_742_Red_DE
+StaticObj_Wreck_Train_742_Red_Mil_DE
+StaticObj_Wreck_Train_Wagon_Flat_DE
+StaticObj_Wreck_Train_Wagon_Flat_Mil_DE
+StaticObj_Wreck_Train_Wagon_Tanker_DE
+StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE
+StaticObj_Wreck_Uaz_DE
+StaticObj_Wreck_Ural_DE
+
+
+
 Land_Wreck_Tractor
 Land_Wreck_Mining_Excavator
 Land_Wreck_Uaz
